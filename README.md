@@ -1,10 +1,9 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="260" style="border-radius:10px"/>
+<img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="250" style="border-radius:10px"/>
 
 # Jesús Francisco Gutiérrez Villa
-### Estudiante de Ingeniería Informática
-
+### Estudiante de Ingeniería Informática  
 📍 Michoacán, México
 
 </div>
@@ -13,112 +12,83 @@
 
 ## PERFIL
 
-Estudiante de Ingeniería Informática con enfoque práctico en el desarrollo de software y sistemas web.  
-He participado en proyectos reales y académicos de mediana y alta complejidad, abarcando desde el diseño visual hasta la lógica de negocio y la gestión de bases de datos.
-
-Cuento con una base sólida en programación, estructuras de datos, desarrollo web full stack y modelado de bases de datos normalizadas. Me caracterizo por aprender de forma constante, aplicar buenas prácticas y mantener una visión integral de los proyectos, tanto técnica como funcional.
-
----
-
-## TECNOLOGÍAS Y HERRAMIENTAS
-
-### Diseño
-**Photoshop**  
-████████░░░░ 65%  
-Manejo de capas, filtros, edición y manipulación de imágenes para diseño y uso creativo.
-
-**Illustrator**  
-██████░░░░░░ 50%  
-Uso de pluma para trazos vectoriales y conocimientos básicos de la interfaz.
+<p align="justify">
+Estudiante de Ingeniería Informática con enfoque en desarrollo de software y sistemas web. He trabajado en proyectos reales y académicos que abarcan diseño visual, desarrollo full stack y modelado avanzado de bases de datos. Me caracterizo por una formación técnica sólida, pensamiento estructurado y constante interés por mejorar mis habilidades en entornos reales de desarrollo.
+</p>
 
 ---
+
+## SKILLS TÉCNICAS
 
 ### Desarrollo Web
-**HTML / CSS**  
-█████████░░░ 85%  
-Maquetación, Grid, Flexbox, Media Queries y diseño responsivo.
-
-**JavaScript**  
-████████░░░░ 75%  
-Manipulación del DOM, eventos, fetch, consumo de APIs y lógica de frontend.
-
-**PHP**  
-████████░░░░ 75%  
-Conexión a bases de datos, manejo de formularios (GET/POST), sesiones y lógica backend.
-
-**MySQL**  
-█████████░░░ 85%  
-Bases de datos normalizadas (hasta 3FN), queries complejas, joins, triggers y procedures.
+| Tecnología | Nivel |
+|---------|-------|
+| HTML / CSS | █████████░░ 85% |
+| JavaScript | ████████░░░ 75% |
+| PHP | ████████░░░ 75% |
+| MySQL | █████████░░ 85% |
 
 ---
 
 ### Programación
-**Python**  
-███████░░░░░ 65%  
-Dominio de sintaxis, ejercicios avanzados y uso de librerías como NumPy y Pandas.
-
-**Java**  
-████████░░░░ 75%  
-POO, interfaces, algoritmos, recursividad, árboles binarios, grafos, JUnit y conexión a BD.
-
-**C (Circuitos Electrónicos)**  
-█████░░░░░░░ 45%  
-Circuitos lógicos básicos y conexión a bases de datos.
+| Lenguaje | Nivel |
+|-------|-------|
+| Java | ████████░░░ 75% |
+| Python | ███████░░░░ 65% |
+| C (Electrónica) | █████░░░░░░ 45% |
 
 ---
 
-### Control de Versiones y Metodologías
-**Git / GitHub**  
-██████░░░░░░ 55%  
-Uso de comandos básicos y flujo de trabajo con repositorios.
+### Diseño
+| Herramienta | Nivel |
+|-----------|-------|
+| Photoshop | ███████░░░░ 65% |
+| Illustrator | █████░░░░░░ 50% |
 
-**Metodologías Ágiles**  
-███████░░░░░ 65%  
-Conocimiento y aplicación de Agile y Scrum.
+---
+
+### Herramientas y Metodologías
+| Área | Nivel |
+|---|---|
+| Git / GitHub | ██████░░░░░ 55% |
+| Agile / Scrum | ███████░░░░ 65% |
+
+---
+
+## EXPERIENCIA PROFESIONAL
+
+### MACH – Despacho Contable  
+**Desarrollador Web / Diseñador Visual**  
+`Proyecto real`
+
+████████░░░░
+
+<p align="justify">
+Desarrollo completo del sitio web desde cero, incluyendo frontend, backend y base de datos. Implementación de herramientas internas de gestión, diseño y rediseño de identidad visual (logotipo, iconografía, tarjetas de presentación y paleta de colores). Participación activa en la toma de decisiones técnicas y visuales del proyecto.
+</p>
+
+---
+
+## FORMACIÓN COMPLEMENTARIA
+
+- Certificación en **Inteligencia Artificial**
+- Curso de **Contabilidad**
+- Taller presencial de **Machine Learning** – *Wizeline*
+- Formación continua en desarrollo web y programación
 
 ---
 
 ## IDIOMAS
 
-- 🇪🇸 Español — ██████████ 100%  
-- 🇬🇧 Inglés — ████░░░░░░ 40%  
-  *(Mayor comprensión en contexto técnico y de desarrollo de software)*
-
----
-
-## EXPERIENCIA
-
-**MACH – Despacho Contable**  
-**Desarrollador Web / Diseñador Visual**  
-`Proyecto real – Actual`
-
-████████░░░░
-
-- Desarrollo completo del sitio web desde cero  
-- Implementación de herramientas internas para gestión  
-- Rediseño de identidad visual: logotipo, iconografía y paleta de colores  
-- Diseño de tarjetas de presentación y elementos gráficos  
-- Integración de frontend, backend y base de datos
-
----
-
-## CURSOS Y FORMACIÓN COMPLEMENTARIA
-
-- Certificación en **Inteligencia Artificial**
-- Curso de **Contabilidad**
-- Taller presencial en **Machine Learning** – *Wizeline*
-- Formación continua en desarrollo web y programación
-
----
-
-## OBJETIVO
-
-Continuar fortaleciendo mis habilidades técnicas y profesionales a través de proyectos reales, formación constante y colaboración en entornos de desarrollo, con el objetivo de crecer como ingeniero de software y aportar soluciones sólidas y bien estructuradas.
+| Idioma | Nivel |
+|------|-------|
+| Español | ██████████ 100% |
+| Inglés | ████░░░░░░ 40% |
 
 ---
 
 <div align="center">
 
-⭐ Gracias por visitar mi perfil ⭐
+**Perfil enfocado en crecimiento técnico y proyectos reales**
 
 </div>
