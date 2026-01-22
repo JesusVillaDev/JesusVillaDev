@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.png"/>
+<img src="presentacion.png"/>
 
 </div>
 
@@ -31,7 +31,7 @@ Estudiante de Ingeniería Informática con enfoque en desarrollo de software y s
 
 ### MACH – Despacho Contable  
 **Desarrollador Web / Diseñador Visual**  
-
+<img src="tarjeta.png"/>
 🔗 https://machcontadorespublicos.com/
 
 <p align="justify">
