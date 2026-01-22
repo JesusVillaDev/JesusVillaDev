@@ -40,7 +40,7 @@ Desarrollo completo del sitio web desde cero, abarcando frontend, backend y base
 
 ---
 
-## FORMACIÓN COMPLEMENTARIA
+FORMACIÓN COMPLEMENTARIA
 
 - Certificación en Inteligencia Artificial  
 - Curso de Contabilidad  
