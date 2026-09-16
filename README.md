@@ -61,7 +61,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JesusVillaDev/JesusVillaDev/HEAD/assets/trayectoria-light.svg">
-  <img src="assets/trayectoria-dark.svg" width="100%" alt="InnovaTecNM 2024: participación en el certamen nacional de innovación tecnológica del TecNM. Certificación técnica: formación continua en sistemas backend, bases de datos relacionales y arquitectura de software. Hackathons y retos: resolución colaborativa de problemas algorítmicos y de lógica de sistemas."/>
+  <img src="assets/trayectoria-dark.svg" width="100%" alt="InnovaTecNM: participación en certámenes nacionales de innovación tecnológica del TecNM desarrollando proyectos de impacto. Certificaciones Cloud: acreditación AWS Cloud Practitioner Essentials e IBM SkillsBuild en desarrollo web e infraestructura. Diseño Gráfico y TI: acreditación técnica en Informática y Diseño Gráfico, sumando criterio visual, estética UI y maquetación."/>
 </picture>
 
 <br/>
