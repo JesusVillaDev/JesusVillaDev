@@ -421,7 +421,7 @@ def footer(T):
             f'<stop offset="50%" stop-color="{T["accent"]}" stop-opacity="0.75"/>'
             f'<stop offset="100%" stop-color="{T["accent"]}" stop-opacity="0"/></linearGradient>')
     b = [rect(0, 0, W, 2, fill="url(#fg)"),
-         txt(W / 2, 44, "github.com/JesusGutzVil", size=12, fill=T["faint"],
+         txt(W / 2, 44, "github.com/JesusVillaDev", size=12, fill=T["faint"],
              anchor="middle", fam=MONO, ls=2.4)]
     return svg(W, H, "\n".join(b), defs)
 
@@ -444,8 +444,9 @@ for T in (DARK, LIGHT):
     write(f"footer-{s}.svg", footer(T))
     write(f"btn-correo-{s}.svg", button(T, "CORREO", "jesusfgv.dev@gmail.com"))
     write(f"btn-linkedin-{s}.svg", button(T, "LINKEDIN", "in/jesusfgv"))
-    write(f"btn-github-{s}.svg", button(T, "GITHUB", "JesusGutzVil"))
+    write(f"btn-github-{s}.svg", button(T, "GITHUB", "JesusVillaDev"))
 
 print("OK:", len(os.listdir(AS)), "archivos")
 for f in sorted(os.listdir(AS)):
     print("  ", f, os.path.getsize(os.path.join(AS, f)), "bytes")
+
