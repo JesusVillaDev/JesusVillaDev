@@ -20,30 +20,34 @@ Estudiante de Ingeniería Informática enfocado en el **desarrollo Backend, la a
 
 <br/>
 
-## Stack Tecnológico
-
-### Backend
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,nodejs,py,java&theme=dark" alt="Backend" />
-</div>
 
-### Frontend
+<h2 align="center">Stack Tecnológico</h2>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react&theme=dark" alt="Frontend" />
-</div>
+<br/>
 
-### Infraestructura & Herramientas
+<h3 align="center">Backend</h3>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,docker,git,github&theme=dark" alt="Infraestructura y Herramientas" />
-</div>
+<img src="https://skillicons.dev/icons?i=php,nodejs,py,java&theme=dark" alt="Backend" />
 
-### Sistemas Operativos
+<br/><br/>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian&theme=dark" alt="Sistemas Operativos" />
+<h3 align="center">Frontend</h3>
+
+<img src="https://skillicons.dev/icons?i=js,html,css,react&theme=dark" alt="Frontend" />
+
+<br/><br/>
+
+<h3 align="center">Infraestructura & Herramientas</h3>
+
+<img src="https://skillicons.dev/icons?i=mysql,docker,git,github&theme=dark" alt="Infraestructura y Herramientas" />
+
+<br/><br/>
+
+<h3 align="center">Sistemas Operativos</h3>
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows&theme=dark" alt="Sistemas Operativos" />
+
 </div>
 
 <br/>
@@ -119,15 +123,9 @@ Disponible para oportunidades laborales, prácticas profesionales y colaboració
 
 <div align="center">
 
-<a href="mailto:jesusfgv.dev@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-jesusfgv.dev%40gmail.com-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117"/>
-</a>
-<a href="https://linkedin.com/in/jesusfgv">
-  <img src="https://img.shields.io/badge/LINKEDIN-Jesús%20Gutiérrez-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117"/>
-</a>
-<a href="https://github.com/JesusGutzVil">
-  <img src="https://img.shields.io/badge/GITHUB-JesusGutzVil-161B22?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
-</a>
+<a href="mailto:jesusfgv.dev@gmail.com"><img src="https://img.shields.io/badge/GMAIL-jesusfgv.dev%40gmail.com-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117"/></a>
+<a href="https://linkedin.com/in/jesusfgv"><img src="https://img.shields.io/badge/LINKEDIN-Jesús%20Gutiérrez-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117"/></a>
+<a href="https://github.com/JesusGutzVil"><img src="https://img.shields.io/badge/GITHUB-JesusGutzVil-161B22?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/></a>
 
 <br/><br/>
 
