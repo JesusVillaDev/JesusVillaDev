@@ -1,24 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420" role="img">
 <defs></defs>
-<rect x="0.5" y="0.5" width="999.0" height="419.0" fill="#FFFFFF" rx="14" stroke="#D6DDE4" stroke-width="1"/>
-<rect x="40.0" y="42.0" width="34.0" height="34.0" fill="#F6F8FA" rx="9" stroke="#D6DDE4" stroke-width="1"/>
-<text x="57.0" y="64.0" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#0969DA" font-weight="600" text-anchor="middle">01</text>
-<text x="88.0" y="66.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="23" fill="#1F2328" font-weight="700" letter-spacing="-0.3">EnfocaKids</text>
-<rect x="619.1" y="46.0" width="154.6" height="26.0" fill="#F6F8FA" rx="13.0" stroke="#D6DDE4" stroke-width="1"/><text x="633.1" y="62.8" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#818B98" letter-spacing="1.6">INNOVATECNM 2024</text>
-<rect x="781.7" y="46.0" width="178.3" height="26.0" fill="#F6F8FA" rx="13.0" stroke="#D6DDE4" stroke-width="1"/><text x="795.7" y="62.8" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#818B98" letter-spacing="1.6">REPOSITORIO PRIVADO</text>
-<text x="40.0" y="106.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#5B646E" font-style="italic">Plataforma web modular de evaluación cognitiva infantil y soporte escolar con telemetría en tiempo real.</text>
-<rect x="40.0" y="130.0" width="87.0" height="28.0" fill="#F6F8FA" rx="8" stroke="#D6DDE4" stroke-width="1"/><circle cx="55.0" cy="144.0" r="3.6" fill="#787CB5"/><text x="66.0" y="148.2" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#5B646E">PHP 8.3</text><rect x="135.0" y="130.0" width="74.2" height="28.0" fill="#F6F8FA" rx="8" stroke="#D6DDE4" stroke-width="1"/><circle cx="150.0" cy="144.0" r="3.6" fill="#4479A1"/><text x="161.0" y="148.2" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#5B646E">MySQL</text><rect x="217.2" y="130.0" width="106.3" height="28.0" fill="#F6F8FA" rx="8" stroke="#D6DDE4" stroke-width="1"/><circle cx="232.2" cy="144.0" r="3.6" fill="#F0DB4F"/><text x="243.2" y="148.2" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#5B646E">JavaScript</text><rect x="331.5" y="130.0" width="61.3" height="28.0" fill="#F6F8FA" rx="8" stroke="#D6DDE4" stroke-width="1"/><circle cx="346.5" cy="144.0" r="3.6" fill="#1572B6"/><text x="357.5" y="148.2" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#5B646E">CSS</text><rect x="400.8" y="130.0" width="61.3" height="28.0" fill="#F6F8FA" rx="8" stroke="#D6DDE4" stroke-width="1"/><circle cx="415.8" cy="144.0" r="3.6" fill="#8957E5"/><text x="426.8" y="148.2" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#5B646E">JWT</text>
+<rect x="0.5" y="0.5" width="999.0" height="419.0" fill="#FFFFFF" rx="14.0" stroke="#D6DDE4" stroke-width="1"/>
+<rect x="40.0" y="42.0" width="34.0" height="34.0" fill="#F6F8FA" rx="9.0" stroke="#D6DDE4" stroke-width="1"/>
+<text x="57.0" y="64.0" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.0" fill="#0969DA" font-weight="600" text-anchor="middle">01</text>
+<text x="88.0" y="66.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="23.0" fill="#1F2328" font-weight="700" letter-spacing="-0.3">EnfocaKids</text>
+<rect x="658.7" y="46.0" width="138.7" height="26.0" fill="#F6F8FA" rx="13.0" stroke="#D6DDE4" stroke-width="1"/>
+<text x="672.7" y="62.8" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#818B98" letter-spacing="1.6">ENFOCAKIDS.COM</text>
+<rect x="805.4" y="46.0" width="154.6" height="26.0" fill="#F6F8FA" rx="13.0" stroke="#D6DDE4" stroke-width="1"/>
+<text x="819.4" y="62.8" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#818B98" letter-spacing="1.6">INNOVATECNM 2024</text>
+<text x="40.0" y="106.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.0" fill="#5B646E" font-style="italic">Plataforma interactiva de estimulación y seguimiento cognitivo infantil con telemetría en tiempo real.</text>
+<rect x="40.0" y="130.0" width="61.3" height="28.0" fill="#F6F8FA" rx="8.0" stroke="#D6DDE4" stroke-width="1"/>
+<circle cx="55.0" cy="144.0" r="3.6" fill="#787CB5"/>
+<text x="66.0" y="148.2" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.0" fill="#5B646E">PHP</text>
+<rect x="109.3" y="130.0" width="74.2" height="28.0" fill="#F6F8FA" rx="8.0" stroke="#D6DDE4" stroke-width="1"/>
+<circle cx="124.3" cy="144.0" r="3.6" fill="#4479A1"/>
+<text x="135.3" y="148.2" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.0" fill="#5B646E">MySQL</text>
+<rect x="191.5" y="130.0" width="106.3" height="28.0" fill="#F6F8FA" rx="8.0" stroke="#D6DDE4" stroke-width="1"/>
+<circle cx="206.5" cy="144.0" r="3.6" fill="#F0DB4F"/>
+<text x="217.5" y="148.2" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.0" fill="#5B646E">JavaScript</text>
+<rect x="305.8" y="130.0" width="61.3" height="28.0" fill="#F6F8FA" rx="8.0" stroke="#D6DDE4" stroke-width="1"/>
+<circle cx="320.8" cy="144.0" r="3.6" fill="#1572B6"/>
+<text x="331.8" y="148.2" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.0" fill="#5B646E">CSS</text>
+<rect x="375.1" y="130.0" width="61.3" height="28.0" fill="#F6F8FA" rx="8.0" stroke="#D6DDE4" stroke-width="1"/>
+<circle cx="390.1" cy="144.0" r="3.6" fill="#8957E5"/>
+<text x="401.1" y="148.2" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.0" fill="#5B646E">JWT</text>
 <line x1="40.0" y1="188.0" x2="960.0" y2="188.0" stroke="#E4E9EE" stroke-width="1"/>
-<circle cx="44" cy="212" r="2.6" fill="#0969DA"/>
-<text x="58" y="216" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5"><tspan fill="#1F2328" font-weight="600">Rendimiento</tspan><tspan fill="#5B646E"> — Arquitectura 100 % Vanilla Web, sin frameworks, con tiempos de carga mínimos.</tspan></text>
-<circle cx="44" cy="240" r="2.6" fill="#0969DA"/>
-<text x="58" y="244" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5"><tspan fill="#1F2328" font-weight="600">Seguridad y control</tspan><tspan fill="#5B646E"> — API RESTful en PHP 8.3 con tipado estricto, JWT y aislamiento de datos por tutor.</tspan></text>
-<circle cx="44" cy="268" r="2.6" fill="#0969DA"/>
-<text x="58" y="272" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5"><tspan fill="#1F2328" font-weight="600">Telemetría cognitiva</tspan><tspan fill="#5B646E"> — Tiempos de reacción y precisión en tiempo real, con cálculo de baremos psicométricos.</tspan></text>
-<text x="40.0" y="310.0" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#818B98" letter-spacing="2.4">DETALLES TÉCNICOS</text>
-<line x1="190.0" y1="306.0" x2="960.0" y2="306.0" stroke="#E4E9EE" stroke-width="1"/>
-<text x="58" y="338" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5"><tspan fill="#5B646E" font-weight="600">Principios SOLID</tspan><tspan fill="#818B98"> — Separación estricta de responsabilidades y desacople completo de los clientes HTTP.</tspan></text>
-<text x="58" y="362" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5"><tspan fill="#5B646E" font-weight="600">Modelo relacional</tspan><tspan fill="#818B98"> — Esquema MySQL normalizado, integridad referencial y consultas preparadas con PDO.</tspan></text>
-<text x="58" y="386" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5"><tspan fill="#5B646E" font-weight="600">Módulos independientes</tspan><tspan fill="#818B98"> — Aislamiento entre actividades lúdicas cognitivas y componentes escolares.</tspan></text>
+<circle cx="44.0" cy="212.0" r="2.6" fill="#0969DA"/>
+<text x="58" y="216" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5"><tspan fill="#1F2328" font-weight="600">Actividades interactivas</tspan><tspan fill="#5B646E"> — Ejercicios lúdicos diseñados para ejercitar atención, memoria y agilidad mental.</tspan></text>
+<circle cx="44.0" cy="240.0" r="2.6" fill="#0969DA"/>
+<text x="58" y="244" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5"><tspan fill="#1F2328" font-weight="600">Telemetría en tiempo real</tspan><tspan fill="#5B646E"> — Registro continuo de tiempos de reacción, precisión, aciertos y consistencia.</tspan></text>
+<circle cx="44.0" cy="268.0" r="2.6" fill="#0969DA"/>
+<text x="58" y="272" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5"><tspan fill="#1F2328" font-weight="600">Reportes de desempeño</tspan><tspan fill="#5B646E"> — Métricas objetivas para seguimiento pedagógico de tutores (no emite diagnóstico clínico).</tspan></text>
+<text x="40.0" y="310.0" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#818B98" letter-spacing="2.4">CARACTERÍSTICAS Y ALCANCE</text>
+<line x1="260.0" y1="306.0" x2="960.0" y2="306.0" stroke="#E4E9EE" stroke-width="1"/>
+<text x="58" y="338" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5"><tspan fill="#5B646E" font-weight="600">Portal público oficial</tspan><tspan fill="#818B98"> — Demostración y acceso general a la plataforma disponible en enfocakids.com.</tspan></text>
+<text x="58" y="362" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5"><tspan fill="#5B646E" font-weight="600">Módulo escolar</tspan><tspan fill="#818B98"> — Actividades de refuerzo estructuradas para tareas y soporte al aprendizaje infantil.</tspan></text>
+<text x="58" y="386" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5"><tspan fill="#5B646E" font-weight="600">Gestión segura</tspan><tspan fill="#818B98"> — Privacidad y aislamiento riguroso de expedientes y sesiones por cada tutor.</tspan></text>
 </svg>

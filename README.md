@@ -33,21 +33,29 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JesusVillaDev/JesusVillaDev/HEAD/assets/proyecto-01-light.svg">
-  <img src="assets/proyecto-01-dark.svg" width="100%" alt="EnfocaKids — Plataforma web modular de evaluación cognitiva infantil y soporte escolar con telemetría en tiempo real. PHP 8.3, MySQL, JavaScript, CSS, JWT. InnovaTecNM 2024. Repositorio privado."/>
+  <img src="assets/proyecto-01-dark.svg" width="100%" alt="EnfocaKids — Plataforma interactiva de estimulación y seguimiento cognitivo infantil con telemetría en tiempo real. Demostración en enfocakids.com"/>
 </picture>
 
 <br/>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JesusVillaDev/JesusVillaDev/HEAD/assets/proyecto-02-light.svg">
-  <img src="assets/proyecto-02-dark.svg" width="100%" alt="Portafolio Personal — Espacio profesional para presentación técnica de ingeniería, casos de estudio y demostraciones interactivas. React, Node.js, CSS3, GitHub Pages. En desarrollo."/>
+  <img src="assets/proyecto-02-dark.svg" width="100%" alt="StudIA — Plataforma educativa para la creación y gestión personalizada de guías de estudio con IA."/>
 </picture>
 
-<!-- PENDIENTE ▸ Cuando el portafolio esté publicado, descomenta este bloque:
-<p align="center">
-  <a href="https://TU-URL-AQUI"><img src="assets/btn-portafolio-dark.svg" alt="Ver portafolio"/></a>
-</p>
-Genera el botón añadiendo una línea write("btn-portafolio-…") en assets/_generador.py -->
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JesusVillaDev/JesusVillaDev/HEAD/assets/proyecto-03-light.svg">
+  <img src="assets/proyecto-03-dark.svg" width="100%" alt="Chromind — PWA de dibujo infantil orientada a la lectura y acompañamiento del estado emocional a través del arte."/>
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JesusVillaDev/JesusVillaDev/HEAD/assets/proyecto-04-light.svg">
+  <img src="assets/proyecto-04-dark.svg" width="100%" alt="Mach Contadores — Sistema integral de automatización de tareas y procesos para despacho contable."/>
+</picture>
 
 <h2 align="center" id="trayectoria">Trayectoria e Intereses</h2>
 

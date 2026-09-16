@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420" role="img">
+<defs></defs>
+<rect x="0.5" y="0.5" width="999.0" height="419.0" fill="#FFFFFF" rx="14.0" stroke="#D6DDE4" stroke-width="1"/>
+<rect x="40.0" y="42.0" width="34.0" height="34.0" fill="#F6F8FA" rx="9.0" stroke="#D6DDE4" stroke-width="1"/>
+<text x="57.0" y="64.0" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.0" fill="#0969DA" font-weight="600" text-anchor="middle">04</text>
+<text x="88.0" y="66.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="23.0" fill="#1F2328" font-weight="700" letter-spacing="-0.3">Mach Contadores</text>
+<rect x="650.8" y="46.0" width="162.5" height="26.0" fill="#F6F8FA" rx="13.0" stroke="#D6DDE4" stroke-width="1"/>
+<text x="664.8" y="62.8" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#818B98" letter-spacing="1.6">DESPACHO CONTABLE</text>
+<rect x="821.3" y="46.0" width="138.7" height="26.0" fill="#F6F8FA" rx="13.0" stroke="#D6DDE4" stroke-width="1"/>
+<text x="835.3" y="62.8" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#818B98" letter-spacing="1.6">AUTOMATIZACIÓN</text>
+<text x="40.0" y="106.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.0" fill="#5B646E" font-style="italic">Sistema integral de automatización de tareas y procesos para despacho contable.</text>
+<rect x="40.0" y="130.0" width="61.3" height="28.0" fill="#F6F8FA" rx="8.0" stroke="#D6DDE4" stroke-width="1"/>
+<circle cx="55.0" cy="144.0" r="3.6" fill="#787CB5"/>
+<text x="66.0" y="148.2" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.0" fill="#5B646E">PHP</text>
+<rect x="109.3" y="130.0" width="74.2" height="28.0" fill="#F6F8FA" rx="8.0" stroke="#D6DDE4" stroke-width="1"/>
+<circle cx="124.3" cy="144.0" r="3.6" fill="#4479A1"/>
+<text x="135.3" y="148.2" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.0" fill="#5B646E">MySQL</text>
+<rect x="191.5" y="130.0" width="106.3" height="28.0" fill="#F6F8FA" rx="8.0" stroke="#D6DDE4" stroke-width="1"/>
+<circle cx="206.5" cy="144.0" r="3.6" fill="#F0DB4F"/>
+<text x="217.5" y="148.2" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.0" fill="#5B646E">JavaScript</text>
+<rect x="305.8" y="130.0" width="61.3" height="28.0" fill="#F6F8FA" rx="8.0" stroke="#D6DDE4" stroke-width="1"/>
+<circle cx="320.8" cy="144.0" r="3.6" fill="#1572B6"/>
+<text x="331.8" y="148.2" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.0" fill="#5B646E">CSS</text>
+<line x1="40.0" y1="188.0" x2="960.0" y2="188.0" stroke="#E4E9EE" stroke-width="1"/>
+<circle cx="44.0" cy="212.0" r="2.6" fill="#0969DA"/>
+<text x="58" y="216" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5"><tspan fill="#1F2328" font-weight="600">Automatización de procesos</tspan><tspan fill="#5B646E"> — Optimización de flujos y tareas cotidianas para ahorrar tiempo operativo a los contadores.</tspan></text>
+<circle cx="44.0" cy="240.0" r="2.6" fill="#0969DA"/>
+<text x="58" y="244" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5"><tspan fill="#1F2328" font-weight="600">Gestión de clientes</tspan><tspan fill="#5B646E"> — Módulo centralizado para seguimiento de cuentas, control fiscal y estados de cada cliente.</tspan></text>
+<circle cx="44.0" cy="268.0" r="2.6" fill="#0969DA"/>
+<text x="58" y="272" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5"><tspan fill="#1F2328" font-weight="600">Aplicaciones a medida</tspan><tspan fill="#5B646E"> — Herramientas web desarrolladas para necesidades específicas dentro del flujo de trabajo.</tspan></text>
+<text x="40.0" y="310.0" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#818B98" letter-spacing="2.4">CARACTERÍSTICAS Y ALCANCE</text>
+<line x1="260.0" y1="306.0" x2="960.0" y2="306.0" stroke="#E4E9EE" stroke-width="1"/>
+<text x="58" y="338" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5"><tspan fill="#5B646E" font-weight="600">Panel administrativo</tspan><tspan fill="#818B98"> — Administración interna de tareas, trámites y módulos de servicio contable.</tspan></text>
+<text x="58" y="362" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5"><tspan fill="#5B646E" font-weight="600">Presencia digital</tspan><tspan fill="#818B98"> — Portal corporativo para difusión de servicios, captación de clientes y publicidad del despacho.</tspan></text>
+<text x="58" y="386" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5"><tspan fill="#5B646E" font-weight="600">Seguridad de datos</tspan><tspan fill="#818B98"> — Gestión estructurada y confidencial de la información contable en base de datos.</tspan></text>
+</svg>

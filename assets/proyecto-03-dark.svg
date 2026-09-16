@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420" role="img">
+<defs></defs>
+<rect x="0.5" y="0.5" width="999.0" height="419.0" fill="#0E131A" rx="14.0" stroke="#21262D" stroke-width="1"/>
+<rect x="40.0" y="42.0" width="34.0" height="34.0" fill="#161B22" rx="9.0" stroke="#21262D" stroke-width="1"/>
+<text x="57.0" y="64.0" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.0" fill="#58A6FF" font-weight="600" text-anchor="middle">03</text>
+<text x="88.0" y="66.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="23.0" fill="#E6EDF3" font-weight="700" letter-spacing="-0.3">Chromind</text>
+<rect x="698.2" y="46.0" width="115.0" height="26.0" fill="#161B22" rx="13.0" stroke="#21262D" stroke-width="1"/>
+<text x="712.2" y="62.8" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#6E7681" letter-spacing="1.6">PWA OFFLINE</text>
+<rect x="821.3" y="46.0" width="138.7" height="26.0" fill="#161B22" rx="13.0" stroke="#21262D" stroke-width="1"/>
+<text x="835.3" y="62.8" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#6E7681" letter-spacing="1.6">ARTE Y EMOCIÓN</text>
+<text x="40.0" y="106.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.0" fill="#9198A1" font-style="italic">PWA de dibujo infantil orientada a la lectura y acompañamiento del estado emocional a través del arte.</text>
+<rect x="40.0" y="130.0" width="106.3" height="28.0" fill="#161B22" rx="8.0" stroke="#21262D" stroke-width="1"/>
+<circle cx="55.0" cy="144.0" r="3.6" fill="#F0DB4F"/>
+<text x="66.0" y="148.2" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.0" fill="#9198A1">JavaScript</text>
+<rect x="154.3" y="130.0" width="119.2" height="28.0" fill="#161B22" rx="8.0" stroke="#21262D" stroke-width="1"/>
+<circle cx="169.3" cy="144.0" r="3.6" fill="#E34F26"/>
+<text x="180.3" y="148.2" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.0" fill="#9198A1">HTML5 Canvas</text>
+<rect x="281.5" y="130.0" width="61.3" height="28.0" fill="#161B22" rx="8.0" stroke="#21262D" stroke-width="1"/>
+<circle cx="296.5" cy="144.0" r="3.6" fill="#1572B6"/>
+<text x="307.5" y="148.2" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.0" fill="#9198A1">CSS</text>
+<rect x="350.8" y="130.0" width="61.3" height="28.0" fill="#161B22" rx="8.0" stroke="#21262D" stroke-width="1"/>
+<circle cx="365.8" cy="144.0" r="3.6" fill="#5A0FC8"/>
+<text x="376.8" y="148.2" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.0" fill="#9198A1">PWA</text>
+<line x1="40.0" y1="188.0" x2="960.0" y2="188.0" stroke="#1C2128" stroke-width="1"/>
+<circle cx="44.0" cy="212.0" r="2.6" fill="#58A6FF"/>
+<text x="58" y="216" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5"><tspan fill="#E6EDF3" font-weight="600">Lienzo interactivo</tspan><tspan fill="#9198A1"> — Espacio de dibujo libre y plantillas para colorear con una interfaz colorida y amigable.</tspan></text>
+<circle cx="44.0" cy="240.0" r="2.6" fill="#58A6FF"/>
+<text x="58" y="244" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5"><tspan fill="#E6EDF3" font-weight="600">Análisis del dibujo</tspan><tspan fill="#9198A1"> — Examina colores dominantes, ritmo, velocidad del trazo y distribución espacial en el lienzo.</tspan></text>
+<circle cx="44.0" cy="268.0" r="2.6" fill="#58A6FF"/>
+<text x="58" y="272" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5"><tspan fill="#E6EDF3" font-weight="600">Informe para adultos</tspan><tspan fill="#9198A1"> — Ofrece a padres y educadores una lectura de estado de ánimo y preguntas para abrir diálogo.</tspan></text>
+<text x="40.0" y="310.0" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#6E7681" letter-spacing="2.4">CARACTERÍSTICAS Y ALCANCE</text>
+<line x1="260.0" y1="306.0" x2="960.0" y2="306.0" stroke="#1C2128" stroke-width="1"/>
+<text x="58" y="338" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5"><tspan fill="#9198A1" font-weight="600">Mapa de emociones</tspan><tspan fill="#6E7681"> — Gráfico pentagonal con dimensiones de vitalidad, calma, expresividad y afecto.</tspan></text>
+<text x="58" y="362" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5"><tspan fill="#9198A1" font-weight="600">Dinámica del trazo</tspan><tspan fill="#6E7681"> — Métricas de número de trazos, ritmo de dibujo, grosor y cobertura de lienzo.</tspan></text>
+<text x="58" y="386" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5"><tspan fill="#9198A1" font-weight="600">Soporte offline</tspan><tspan fill="#6E7681"> — Progressive Web App instalable que funciona sin necesidad de conexión a internet.</tspan></text>
+</svg>
