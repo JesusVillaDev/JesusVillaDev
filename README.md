@@ -1,51 +1,43 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=180&section=header&text=Jesús%20Francisco%20Gutiérrez%20Villa&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20%7C%20Software%20Architecture%20%7C%20Data&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=180&section=header&text=Jesús%20Francisco%20Gutiérrez%20Villa&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20%7C%20Arquitectura%20de%20Software%20%7C%20Datos&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/LOCATION-MICHOAC%C3%81N%2C%20MEXICO-0F2027?style=flat-square&labelColor=1a1a1a"/>
-<img src="https://img.shields.io/badge/STATUS-FINAL%20SEMESTER-2C5364?style=flat-square&labelColor=1a1a1a"/>
-<img src="https://img.shields.io/badge/ENGLISH-BASIC%20TECHNICAL-2C5364?style=flat-square&labelColor=1a1a1a"/>
-<img src="https://img.shields.io/badge/AVAILABILITY-OPEN%20TO%20WORK-2C5364?style=flat-square&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/UBICACIÓN-MICHOACÁN%2C%20MÉXICO-0F2027?style=flat-square&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/ESTATUS-ÚLTIMO%20SEMESTRE-2C5364?style=flat-square&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/INGLÉS-TÉCNICO%20BÁSICO-2C5364?style=flat-square&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/DISPONIBILIDAD-BÚSQUEDA%20ACTIVA-2C5364?style=flat-square&labelColor=1a1a1a"/>
 
 </div>
 
 <br/>
 
-## Profile
+## Perfil
 
-<table width="100%">
-<tr>
-<td width="100%">
-
-Computer Engineering student in the final semester of studies, currently seeking a **professional internship or junior developer position**. My core interest lies in **backend development, software architecture, and data management** — designing systems that are structured, scalable, and maintainable. I also bring strong attention to visual detail on the frontend, ensuring that the systems I design are as usable as they are well-engineered.
-
-</td>
-</tr>
-</table>
+Estudiante de Ingeniería Informática en último semestre, actualmente en **búsqueda activa de prácticas profesionales o una posición junior**. Mi interés principal está en el **desarrollo Backend, la arquitectura de software y el manejo de datos**, diseñando sistemas estructurados, escalables y mantenibles. También aplico atención al detalle en el Frontend, asegurando que los sistemas que diseño sean tan usables como bien construidos.
 
 <table width="100%">
 <tr>
 <td width="33%" align="center" valign="top">
 
-**Focus**
+**Enfoque**
 
-Backend logic, software architecture, and structured data handling.
+Lógica de backend, arquitectura de software y estructuración de datos.
 
 </td>
 <td width="33%" align="center" valign="top">
 
-**Currently**
+**Actualmente**
 
-Actively applying for internships and entry-level developer roles.
+Aplicando activamente a prácticas y vacantes junior en desarrollo.
 
 </td>
 <td width="34%" align="center" valign="top">
 
-**Approach**
+**Metodología**
 
-Detail-oriented engineering with equal care for logic and interface.
+Ingeniería orientada al detalle, tanto en lógica como en interfaz.
 
 </td>
 </tr>
@@ -53,103 +45,121 @@ Detail-oriented engineering with equal care for logic and interface.
 
 <br/>
 
-## Tech Stack
+## Stack Tecnológico
 
 <table width="100%">
 <tr>
-<th width="20%" align="left">Category</th>
-<th width="80%" align="left">Technologies</th>
-</tr>
-<tr>
-<td align="left"><strong>Languages</strong></td>
-<td align="left">
+<td width="50%" align="center" valign="top">
+
+**Lenguajes**
+
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+
 </td>
-</tr>
-<tr>
-<td align="left"><strong>Frontend</strong></td>
-<td align="left">
+<td width="50%" align="center" valign="top">
+
+**Frontend**
+
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+
 </td>
 </tr>
 <tr>
-<td align="left"><strong>Backend</strong></td>
-<td align="left">
+<td width="50%" align="center" valign="top">
+
+**Backend**
+
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
 </td>
-</tr>
-<tr>
-<td align="left"><strong>Databases</strong></td>
-<td align="left">
+<td width="50%" align="center" valign="top">
+
+**Bases de Datos**
+
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
 </td>
 </tr>
 <tr>
-<td align="left"><strong>Tools</strong></td>
-<td align="left">
+<td width="50%" align="center" valign="top">
+
+**Herramientas**
+
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+**Sistemas Operativos / VMs**
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white"/>
+<img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white"/>
+
 </td>
 </tr>
 </table>
 
 <br/>
 
-## Featured Projects
+## Proyectos Destacados
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### Project One
-Short description of the problem this project solves and its main purpose.
+### Proyecto Uno
+Breve descripción del problema que resuelve este proyecto y su objetivo principal.
 
 `PHP` `MySQL` `JavaScript`
 
-[Repository](#) · [Live Demo](#)
+[Repositorio](#) · [Demo](#)
 
 </td>
 <td width="50%" valign="top">
 
-### Project Two
-Short description of the problem this project solves and its main purpose.
+### Proyecto Dos
+Breve descripción del problema que resuelve este proyecto y su objetivo principal.
 
 `React` `Node.js` `MySQL`
 
-[Repository](#) · [Live Demo](#)
+[Repositorio](#) · [Demo](#)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Project Three
-Short description of the problem this project solves and its main purpose.
+### Proyecto Tres
+Breve descripción del problema que resuelve este proyecto y su objetivo principal.
 
 `Python` `Docker`
 
-[Repository](#) · [Live Demo](#)
+[Repositorio](#) · [Demo](#)
 
 </td>
 <td width="50%" valign="top">
 
-### Personal Portfolio
-Personal website currently in development. Will showcase full project history and case studies.
+### Portafolio Personal
+Sitio web personal actualmente en desarrollo. Mostrará el historial completo de proyectos y casos de estudio.
 
 `React` `Node.js`
 
-**Status:** In Progress
+**Estatus:** En construcción
 
 </td>
 </tr>
@@ -157,17 +167,17 @@ Personal website currently in development. Will showcase full project history an
 
 <br/>
 
-## Certifications & Achievements
+## Certificaciones y Logros
 
-| Event / Certification | Year | Description |
+| Evento / Certificación | Año | Descripción |
 |---|:---:|---|
-| InnovaTecNM | 20XX | Participation in the technological innovation contest hosted by TecNM. |
-| Certification Name | 20XX | Brief description of the certification and issuing institution. |
-| Hackathon / Contest Name | 20XX | Brief description of the achievement or ranking obtained. |
+| InnovaTecNM | 20XX | Participación en el concurso de innovación tecnológica organizado por el TecNM. |
+| Nombre de Certificación | 20XX | Breve descripción de la certificación e institución que la emitió. |
+| Hackathon / Concurso | 20XX | Breve descripción del logro o posición obtenida. |
 
 <br/>
 
-## GitHub Statistics
+## Estadísticas de GitHub
 
 <div align="center">
 
@@ -180,32 +190,32 @@ Personal website currently in development. Will showcase full project history an
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=dark&hide_border=true&background=0D1117"/>
 </div>
 
-<sub>Replace `TU_USUARIO` with your actual GitHub username in each URL above.</sub>
+<sub>Reemplaza `TU_USUARIO` por tu nombre de usuario real de GitHub en cada URL anterior.</sub>
 
 <br/>
 
-## Beyond Code
+## Fuera del Código
 
 <table width="100%">
 <tr>
-<td width="25%" align="center"><strong>Football</strong></td>
-<td width="25%" align="center"><strong>Volleyball</strong></td>
-<td width="25%" align="center"><strong>Video Games</strong></td>
-<td width="25%" align="center"><strong>Continuous Learning</strong></td>
+<td width="25%" align="center"><strong>Fútbol</strong></td>
+<td width="25%" align="center"><strong>Voleibol</strong></td>
+<td width="25%" align="center"><strong>Videojuegos</strong></td>
+<td width="25%" align="center"><strong>Aprendizaje Continuo</strong></td>
 </tr>
 </table>
 
 <br/>
 
-## Contact
+## Contacto
 
 <div align="center">
 
 <a href="mailto:jesusfgv.dev@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-jesusfgv.dev%40gmail.com-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/CORREO-jesusfgv.dev%40gmail.com-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="#">
-<img src="https://img.shields.io/badge/LINKEDIN-ADD%20YOUR%20URL-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-AGREGAR%20URL-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
