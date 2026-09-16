@@ -1,164 +1,217 @@
 <div align="center">
 
-# 👋 ¡Hola! Soy Jesús Francisco Gutiérrez Villa
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=180&section=header&text=Jesús%20Francisco%20Gutiérrez%20Villa&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20%7C%20Software%20Architecture%20%7C%20Data&descAlignY=58&descSize=18" width="100%"/>
 
-### Estudiante de Ingeniería Informática | Futuro Backend Developer
+<br/>
 
-<img src="https://img.shields.io/badge/📍%20Ubicación-Michoacán,%20México-CD5C5C?style=for-the-badge" alt="Ubicación"/>
-<img src="https://img.shields.io/badge/🎓%20Estado-Último%20Semestre-4B8BBE?style=for-the-badge" alt="Estado académico"/>
-<img src="https://img.shields.io/badge/🌐%20Inglés-Técnico%20Básico-FFB300?style=for-the-badge" alt="Nivel de inglés"/>
-<img src="https://img.shields.io/badge/💼%20Disponibilidad-Búsqueda%20activa-2ECC71?style=for-the-badge" alt="Disponibilidad"/>
+<img src="https://img.shields.io/badge/LOCATION-MICHOAC%C3%81N%2C%20MEXICO-0F2027?style=flat-square&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/STATUS-FINAL%20SEMESTER-2C5364?style=flat-square&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/ENGLISH-BASIC%20TECHNICAL-2C5364?style=flat-square&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/AVAILABILITY-OPEN%20TO%20WORK-2C5364?style=flat-square&labelColor=1a1a1a"/>
 
 </div>
 
----
+<br/>
 
-## 🧑‍💻 Sobre mí
+## Profile
 
-Soy estudiante de último semestre de **Ingeniería Informática** en Michoacán, México, actualmente en **búsqueda activa de oportunidades laborales o prácticas profesionales** donde pueda aportar valor real desde el primer día.
+<table width="100%">
+<tr>
+<td width="100%">
 
-Aunque cuento con **alta atención al detalle y perfeccionismo visual** en el desarrollo Frontend, mi verdadera pasión está en el **Backend**: la lógica de negocio, la **arquitectura de software** y el manejo eficiente de **datos**. Disfruto diseñar soluciones robustas, escalables y bien estructuradas, sin dejar de lado la experiencia visual que percibe el usuario final.
+Computer Engineering student in the final semester of studies, currently seeking a **professional internship or junior developer position**. My core interest lies in **backend development, software architecture, and data management** — designing systems that are structured, scalable, and maintainable. I also bring strong attention to visual detail on the frontend, ensuring that the systems I design are as usable as they are well-engineered.
 
-- 🔭 Actualmente perfeccionando mis habilidades en desarrollo Backend y bases de datos.
-- 🌱 Aprendiendo constantemente sobre arquitectura de software y buenas prácticas.
-- 🤝 Abierto a colaborar en proyectos y prácticas profesionales.
-- ⚡ Me describo como una persona detallista, curiosa y comprometida con la mejora continua.
-
----
-
-## 🧰 Tech Stack
-
-### 🔤 Lenguajes
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🗄️ Bases de Datos
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🛠️ Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 🛠️ Proyectos Destacados
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📌 Nombre del Proyecto 1</h3>
-      <p align="center">Breve descripción del proyecto: qué problema resuelve y su objetivo principal.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      </p>
-      <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/Demo-2ECC71?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📌 Nombre del Proyecto 2</h3>
-      <p align="center">Breve descripción del proyecto: qué problema resuelve y su objetivo principal.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      </p>
-      <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/Demo-2ECC71?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📌 Nombre del Proyecto 3</h3>
-      <p align="center">Breve descripción del proyecto: qué problema resuelve y su objetivo principal.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      </p>
-      <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/Demo-2ECC71?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-      </p>
-    </td>
-    <td width="50%" align="center">
-      <h3>🚧 Portafolio Personal</h3>
-      <p>Mi sitio web personal está actualmente <strong>en construcción</strong>.<br/>¡Disponible próximamente!</p>
-      <img src="https://img.shields.io/badge/Estado-En%20construcción-FFB300?style=for-the-badge&logo=todoist&logoColor=white"/>
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
----
+<table width="100%">
+<tr>
+<td width="33%" align="center" valign="top">
 
-## 🏆 Certificaciones y Logros
+**Focus**
 
-| 🏅 Evento / Certificación | 📅 Año | 📝 Descripción |
-|---------------------------|:------:|-----------------|
-| InnovaTecNM                | 20XX   | Participación en el concurso de innovación tecnológica del Tecnológico Nacional de México. |
-| Certificación XYZ          | 20XX   | Descripción breve de la certificación obtenida. |
-| Hackathon / Concurso ABC   | 20XX   | Descripción breve de la participación o logro alcanzado. |
+Backend logic, software architecture, and structured data handling.
 
-> 💡 *Sección en constante actualización conforme se suman nuevos logros y certificaciones.*
+</td>
+<td width="33%" align="center" valign="top">
 
----
+**Currently**
 
-## 📊 Estadísticas de GitHub
+Actively applying for internships and entry-level developer roles.
+
+</td>
+<td width="34%" align="center" valign="top">
+
+**Approach**
+
+Detail-oriented engineering with equal care for logic and interface.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Tech Stack
+
+<table width="100%">
+<tr>
+<th width="20%" align="left">Category</th>
+<th width="80%" align="left">Technologies</th>
+</tr>
+<tr>
+<td align="left"><strong>Languages</strong></td>
+<td align="left">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="left"><strong>Frontend</strong></td>
+<td align="left">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="left"><strong>Backend</strong></td>
+<td align="left">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="left"><strong>Databases</strong></td>
+<td align="left">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="left"><strong>Tools</strong></td>
+<td align="left">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### Project One
+Short description of the problem this project solves and its main purpose.
+
+`PHP` `MySQL` `JavaScript`
+
+[Repository](#) · [Live Demo](#)
+
+</td>
+<td width="50%" valign="top">
+
+### Project Two
+Short description of the problem this project solves and its main purpose.
+
+`React` `Node.js` `MySQL`
+
+[Repository](#) · [Live Demo](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Project Three
+Short description of the problem this project solves and its main purpose.
+
+`Python` `Docker`
+
+[Repository](#) · [Live Demo](#)
+
+</td>
+<td width="50%" valign="top">
+
+### Personal Portfolio
+Personal website currently in development. Will showcase full project history and case studies.
+
+`React` `Node.js`
+
+**Status:** In Progress
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Certifications & Achievements
+
+| Event / Certification | Year | Description |
+|---|:---:|---|
+| InnovaTecNM | 20XX | Participation in the technological innovation contest hosted by TecNM. |
+| Certification Name | 20XX | Brief description of the certification and issuing institution. |
+| Hackathon / Contest Name | 20XX | Brief description of the achievement or ranking obtained. |
+
+<br/>
+
+## GitHub Statistics
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark&hide_border=true"/>
+<img height="165px" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117"/>
+<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
-> ✏️ *Recuerda reemplazar `TU_USUARIO` por tu nombre de usuario real de GitHub.*
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=dark&hide_border=true&background=0D1117"/>
+</div>
 
----
+<sub>Replace `TU_USUARIO` with your actual GitHub username in each URL above.</sub>
 
-## ⚡ Fun Facts
+<br/>
 
-- ⚽ Me apasiona el **fútbol**, tanto jugarlo como verlo.
-- 🏐 También disfruto del **voleibol** en mi tiempo libre.
-- 🎮 Soy aficionado a los **videojuegos** (¡siempre abierto a recomendaciones!).
-- 📚 Me encanta **aprender cosas nuevas**, dentro y fuera de la tecnología.
-- 🧩 Disfruto resolver problemas complejos con soluciones simples y elegantes.
+## Beyond Code
 
----
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>Football</strong></td>
+<td width="25%" align="center"><strong>Volleyball</strong></td>
+<td width="25%" align="center"><strong>Video Games</strong></td>
+<td width="25%" align="center"><strong>Continuous Learning</strong></td>
+</tr>
+</table>
 
-## 📫 Contacto
+<br/>
+
+## Contact
 
 <div align="center">
 
 <a href="mailto:jesusfgv.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-jesusfgv.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-jesusfgv.dev%40gmail.com-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-Agregar%20URL%20aquí-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-ADD%20YOUR%20URL-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
-<div align="center">
-  <sub>🚀 Gracias por visitar mi perfil. ¡Siempre abierto a nuevas oportunidades y colaboraciones!</sub>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
+
 </div>
