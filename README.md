@@ -24,17 +24,28 @@ Estudiante de Ingeniería Informática enfocado en el **desarrollo Backend, la a
 
 <h2 align="center">Stack Tecnológico</h2>
 
-<h4 align="center">Backend</h4>
-<img src="https://skillicons.dev/icons?i=php,nodejs,py,java&theme=dark" alt="Backend" />
-
-<h4 align="center">Frontend</h4>
-<img src="https://skillicons.dev/icons?i=js,html,css,react&theme=dark" alt="Frontend" />
-
-<h4 align="center">Infraestructura & Herramientas</h4>
-<img src="https://skillicons.dev/icons?i=mysql,docker,git,github&theme=dark" alt="Infraestructura y Herramientas" />
-
-<h4 align="center">Sistemas Operativos</h4>
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows&theme=dark" alt="Sistemas Operativos" />
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h4>Backend</h4>
+      <img src="https://skillicons.dev/icons?i=php,nodejs,py,java&theme=dark" alt="Backend" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h4>Frontend</h4>
+      <img src="https://skillicons.dev/icons?i=js,html,css,react&theme=dark" alt="Frontend" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h4>Infraestructura & Herramientas</h4>
+      <img src="https://skillicons.dev/icons?i=mysql,docker,git,github&theme=dark" alt="Infraestructura y Herramientas" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h4>Sistemas Operativos</h4>
+      <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows&theme=dark" alt="Sistemas Operativos" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
