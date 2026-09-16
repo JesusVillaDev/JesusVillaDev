@@ -26,7 +26,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JesusVillaDev/JesusVillaDev/HEAD/assets/stack-light.svg">
-  <img src="assets/stack-dark.svg" width="100%" alt="Backend: PHP, Node.js, Python, Java. Frontend: JavaScript, HTML, CSS, React. Datos y herramientas: MySQL, Docker, Git, GitHub. Sistemas: Linux, Ubuntu, Debian, Windows."/>
+  <img src="assets/stack-dark.svg" width="100%" alt="Backend: PHP, Node.js, Python, Java. Frontend: JavaScript, HTML, CSS, React. Software: MySQL, Docker, Git, GitHub. Sistemas: Linux, Ubuntu, Debian, Windows."/>
 </picture>
 
 <h2 align="center" id="proyectos">Proyectos Destacados</h2>

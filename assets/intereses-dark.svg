@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="92" viewBox="0 0 1000 92" role="img">
-<defs></defs>
 <rect x="0.5" y="0.5" width="999.0" height="91.0" fill="#0E131A" rx="14" stroke="#21262D" stroke-width="1"/>
-<text x="125.0" y="51.0" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#9198A1" text-anchor="middle" letter-spacing="2.6">FÚTBOL</text>
-<text x="375.0" y="51.0" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#9198A1" text-anchor="middle" letter-spacing="2.6">VOLEIBOL</text>
-<text x="625.0" y="51.0" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#9198A1" text-anchor="middle" letter-spacing="2.6">VIDEOJUEGOS</text>
-<text x="875.0" y="51.0" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#9198A1" text-anchor="middle" letter-spacing="2.6">AUTODIDACTA</text>
-<line x1="250.0" y1="26.0" x2="250.0" y2="66.0" stroke="#1C2128" stroke-width="1"/>
-<line x1="500.0" y1="26.0" x2="500.0" y2="66.0" stroke="#1C2128" stroke-width="1"/>
-<line x1="750.0" y1="26.0" x2="750.0" y2="66.0" stroke="#1C2128" stroke-width="1"/>
+<text x="125.0" y="51.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13.5" fill="#C9D1D9" font-weight="600" text-anchor="middle" letter-spacing="2.8">FÚTBOL</text>
+<text x="375.0" y="51.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13.5" fill="#C9D1D9" font-weight="600" text-anchor="middle" letter-spacing="2.8">VOLEIBOL</text>
+<text x="625.0" y="51.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13.5" fill="#C9D1D9" font-weight="600" text-anchor="middle" letter-spacing="2.8">VIDEOJUEGOS</text>
+<text x="875.0" y="51.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13.5" fill="#C9D1D9" font-weight="600" text-anchor="middle" letter-spacing="2.8">AUTODIDACTA</text>
+<line x1="250.0" y1="24.0" x2="250.0" y2="68.0" stroke="#1C2128" stroke-width="1"/>
+<line x1="500.0" y1="24.0" x2="500.0" y2="68.0" stroke="#1C2128" stroke-width="1"/>
+<line x1="750.0" y1="24.0" x2="750.0" y2="68.0" stroke="#1C2128" stroke-width="1"/>
 </svg>

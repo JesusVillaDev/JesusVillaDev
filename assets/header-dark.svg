@@ -1,16 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img">
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0B0F14"/><stop offset="100%" stop-color="#11161D"/></linearGradient><pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#8B949E" opacity="0.16"/></pattern><radialGradient id="glow" cx="50%" cy="4%" r="72%"><stop offset="0%" stop-color="#58A6FF" stop-opacity="0.18"/><stop offset="100%" stop-color="#58A6FF" stop-opacity="0"/></radialGradient><clipPath id="cp"><rect x="0" y="0" width="1000" height="300" rx="14"/></clipPath></defs>
-<style>.r{animation:fu .8s cubic-bezier(.2,.7,.3,1) both}.d1{animation-delay:.05s}.d2{animation-delay:.18s}.d3{animation-delay:.31s}.d4{animation-delay:.44s}.d5{animation-delay:.57s}@keyframes fu{from{opacity:0}to{opacity:1}}.rule{transform-box:fill-box;transform-origin:center;animation:gw .9s cubic-bezier(.2,.7,.3,1) .3s both}@keyframes gw{from{transform:scaleX(0)}to{transform:scaleX(1)}}.pulse{animation:pl 2.4s ease-in-out infinite}@keyframes pl{0%,100%{opacity:1}50%{opacity:.35}}</style>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="310" viewBox="0 0 1000 310" role="img">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#080C10"/><stop offset="50%" stop-color="#111620"/><stop offset="100%" stop-color="#161C26"/></linearGradient>
+<pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1" fill="#8B949E" opacity="0.14"/></pattern>
+<radialGradient id="glow1" cx="50%" cy="0%" r="70%"><stop offset="0%" stop-color="#388BFD" stop-opacity="0.22"/><stop offset="100%" stop-color="#388BFD" stop-opacity="0"/></radialGradient>
+<radialGradient id="glow2" cx="85%" cy="20%" r="50%"><stop offset="0%" stop-color="#8957E5" stop-opacity="0.12"/><stop offset="100%" stop-color="#8957E5" stop-opacity="0"/></radialGradient>
+<linearGradient id="titleGrad" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#FFFFFF"/><stop offset="65%" stop-color="#F0F6FC"/><stop offset="100%" stop-color="#79C0FF"/></linearGradient>
+<linearGradient id="lineGrad" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#58A6FF" stop-opacity="0"/><stop offset="50%" stop-color="#58A6FF" stop-opacity="1"/><stop offset="100%" stop-color="#58A6FF" stop-opacity="0"/></linearGradient>
+<clipPath id="cp"><rect x="0" y="0" width="1000" height="310" rx="16"/></clipPath>
+</defs>
+<style>
+.r{animation:fu .8s cubic-bezier(.2,.7,.3,1) both}.d1{animation-delay:.05s}.d2{animation-delay:.18s}.d3{animation-delay:.31s}.d4{animation-delay:.44s}.d5{animation-delay:.57s}@keyframes fu{from{opacity:0}to{opacity:1}}.pulse{animation:pl 2.4s ease-in-out infinite}@keyframes pl{0%,100%{opacity:1}50%{opacity:.35}}
+</style>
 <g clip-path="url(#cp)">
-<rect x="0.0" y="0.0" width="1000.0" height="300.0" fill="url(#bg)"/>
-<rect x="0.0" y="0.0" width="1000.0" height="300.0" fill="url(#grid)"/>
-<rect x="0.0" y="0.0" width="1000.0" height="300.0" fill="url(#glow)"/>
+<rect x="0" y="0" width="1000" height="310" fill="url(#bg)"/>
+<rect x="0" y="0" width="1000" height="310" fill="url(#grid)"/>
+<rect x="0" y="0" width="1000" height="310" fill="url(#glow1)"/>
+<rect x="0" y="0" width="1000" height="310" fill="url(#glow2)"/>
 </g>
-<rect x="0.5" y="0.5" width="999.0" height="299.0" fill="none" rx="14" stroke="#21262D" stroke-width="1"/>
-<text x="500.0" y="78.0" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#58A6FF" text-anchor="middle" letter-spacing="3.4" class="r d1">INGENIERÍA INFORMÁTICA  ·  TESTING E INFORMÁTICA EN LA NUBE</text>
-<text x="500.0" y="144.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="41" fill="#E6EDF3" font-weight="700" text-anchor="middle" letter-spacing="-0.6" class="r d2">Jesús Francisco Gutiérrez Villa</text>
-<rect x="458.0" y="168.0" width="84.0" height="3.0" fill="#58A6FF" rx="1.5" class="rule"/>
-<text x="500.0" y="210.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#9198A1" text-anchor="middle" class="r d4">Backend  ·  Arquitectura de Software  ·  Bases de Datos</text>
-<g class="r d5"><rect x="263.9" y="238.0" width="162.5" height="26.0" fill="#161B22" rx="13.0" stroke="#21262D" stroke-width="1"/><text x="277.9" y="254.8" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#6E7681" letter-spacing="1.6">MICHOACÁN, MÉXICO</text><rect x="446.4" y="238.0" width="146.7" height="26.0" fill="#161B22" rx="13.0" stroke="#21262D" stroke-width="1"/><text x="460.4" y="254.8" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#6E7681" letter-spacing="1.6">ÚLTIMO SEMESTRE</text><rect x="613.0" y="238.0" width="123.1" height="26.0" fill="#161B22" rx="13.0" stroke="#21262D" stroke-width="1"/><circle cx="631.0" cy="251.0" r="3.2" fill="#3FB950" class="pulse"/><text x="643.0" y="254.8" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#3FB950" letter-spacing="1.6">DISPONIBLE</text></g>
+<rect x="0.5" y="0.5" width="999.0" height="309.0" fill="none" rx="16" stroke="#30363D" stroke-width="1"/>
+<g class="r d1">
+<rect x="260.0" y="38.0" width="480.0" height="30.0" fill="#161B22" rx="15.0" stroke="#30363D" stroke-width="1"/>
+<circle cx="278.0" cy="53.0" r="3.5" fill="#58A6FF"/>
+<text x="505.0" y="58.0" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12.0" fill="#58A6FF" font-weight="600" text-anchor="middle" letter-spacing="2.2">INGENIERÍA INFORMÁTICA · TESTING Y NUBE</text>
+</g>
+<text x="500.0" y="124.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="42.0" fill="url(#titleGrad)" font-weight="800" text-anchor="middle" letter-spacing="-0.8" class="r d2">Jesús Francisco Gutiérrez Villa</text>
+<rect x="390.0" y="146.0" width="220.0" height="2.5" rx="1.25" fill="url(#lineGrad)" class="r d3"/>
+<text x="500.0" y="188.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17.5" fill="#C9D1D9" font-weight="500" text-anchor="middle" letter-spacing="0.3" class="r d4">Backend  ·  Arquitectura de Software  ·  Bases de Datos</text>
+<g class="r d5">
+<rect x="225.0" y="222.0" width="175.0" height="32.0" fill="#161B22" rx="16.0" stroke="#30363D" stroke-width="1"/>
+<text x="312.5" y="242.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12.0" fill="#C9D1D9" font-weight="600" text-anchor="middle" letter-spacing="1.4">MICHOACÁN, MÉXICO</text>
+<rect x="415.0" y="222.0" width="170.0" height="32.0" fill="#161B22" rx="16.0" stroke="#30363D" stroke-width="1"/>
+<text x="500.0" y="242.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12.0" fill="#C9D1D9" font-weight="600" text-anchor="middle" letter-spacing="1.4">ÚLTIMO SEMESTRE</text>
+<rect x="600.0" y="222.0" width="175.0" height="32.0" fill="#161B22" rx="16.0" stroke="#238636" stroke-width="1.2"/>
+<circle cx="624.0" cy="238.0" r="3.8" fill="#3FB950" class="pulse"/>
+<text x="697.0" y="242.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12.0" fill="#3FB950" font-weight="700" text-anchor="middle" letter-spacing="1.6">DISPONIBLE</text>
+</g>
 </svg>
