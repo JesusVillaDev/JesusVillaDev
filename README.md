@@ -76,18 +76,15 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=JesusVillaDev&show_icons=true&count_private=true&rank_icon=github&card_width=495&border_radius=14&border_color=D6DDE4&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=5B646E">
-  <img width="72%" src="https://github-stats-extended.vercel.app/api?username=JesusVillaDev&show_icons=true&count_private=true&rank_icon=github&card_width=495&border_radius=14&border_color=21262D&bg_color=0E131A&title_color=58A6FF&icon_color=58A6FF&text_color=9198A1" alt="Estadísticas de GitHub"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-activity-graph.vercel.app/graph?username=JesusVillaDev&amp;bg_color=FFFFFF&amp;color=0969DA&amp;line=0969DA&amp;point=1F2328&amp;area=true&amp;area_color=0969DA&amp;hide_border=true&amp;radius=14">
+  <img width="92%" src="https://github-activity-graph.vercel.app/graph?username=JesusVillaDev&amp;bg_color=0E131A&amp;color=58A6FF&amp;line=58A6FF&amp;point=E6EDF3&amp;area=true&amp;area_color=58A6FF&amp;hide_border=true&amp;radius=14" alt="Gráfica de Actividad de GitHub"/>
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=JesusVillaDev&layout=compact&langs_count=8&card_width=495&border_radius=14&border_color=D6DDE4&bg_color=FFFFFF&title_color=0969DA&text_color=5B646E">
-  <img width="72%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JesusVillaDev&layout=compact&langs_count=8&card_width=495&border_radius=14&border_color=21262D&bg_color=0E131A&title_color=58A6FF&text_color=9198A1" alt="Lenguajes más utilizados"/>
-</picture>
+<br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=JesusVillaDev&border_radius=14&border=D6DDE4&background=FFFFFF&stroke=D6DDE4&ring=0969DA&fire=0969DA&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=0969DA&sideLabels=5B646E&dates=818B98">
-  <img width="72%" src="https://streak-stats.demolab.com?user=JesusVillaDev&border_radius=14&border=21262D&background=0E131A&stroke=21262D&ring=58A6FF&fire=58A6FF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=58A6FF&sideLabels=9198A1&dates=6E7681" alt="Racha de contribuciones"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JesusVillaDev&amp;theme=default">
+  <img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JesusVillaDev&amp;theme=github_dark" alt="Resumen de Contribuciones y Perfil de GitHub"/>
 </picture>
 
 </div>
