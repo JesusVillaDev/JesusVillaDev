@@ -24,19 +24,28 @@ Estudiante de Ingeniería Informática enfocado en el **desarrollo Backend, la a
 
 <h2 align="center">Stack Tecnológico</h2>
 
-<h4>Backend &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Frontend</h4>
-
-<img src="https://skillicons.dev/icons?i=php,nodejs,py,java&theme=dark" alt="Backend" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=js,html,css,react&theme=dark" alt="Frontend" />
-
-<br/><br/>
-
-<h4>Infraestructura & Herramientas &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sistemas Operativos &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h4>
-
-<img src="https://skillicons.dev/icons?i=mysql,docker,git,github&theme=dark" alt="Infraestructura y Herramientas" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows&theme=dark" alt="Sistemas Operativos" />
+<table align="center">
+  <tr>
+    <td align="center">
+      <h4>Backend</h4>
+      <img src="https://skillicons.dev/icons?i=php,nodejs,py,java&theme=dark" alt="Backend" />
+    </td>
+    <td align="center">
+      <h4>Frontend</h4>
+      <img src="https://skillicons.dev/icons?i=js,html,css,react&theme=dark" alt="Frontend" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h4>Infraestructura & Herramientas</h4>
+      <img src="https://skillicons.dev/icons?i=mysql,docker,git,github&theme=dark" alt="Infraestructura y Herramientas" />
+    </td>
+    <td align="center">
+      <h4>Sistemas Operativos</h4>
+      <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows&theme=dark" alt="Sistemas Operativos" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
