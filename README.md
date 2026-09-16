@@ -12,14 +12,14 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JesusVillaDev/JesusVillaDev/HEAD/assets/header-light.svg">
-  <img src="assets/header-dark.svg" width="100%" alt="Jesús Francisco Gutiérrez Villa — Ingeniería Informática, especialidad Backend. Michoacán, México. Disponible."/>
+  <img src="assets/header-dark.svg" width="100%" alt="Jesús Francisco Gutiérrez Villa — Ingeniería Informática, especialidad en Testing e Informática en la Nube. Michoacán, México. Disponible."/>
 </picture>
 
 <h2 align="center" id="perfil">Perfil</h2>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JesusVillaDev/JesusVillaDev/HEAD/assets/perfil-light.svg">
-  <img src="assets/perfil-dark.svg" width="100%" alt="Estudiante de Ingeniería Informática en último semestre, con especialidad en desarrollo backend. Áreas: desarrollo backend, arquitectura de software y bases de datos."/>
+  <img src="assets/perfil-dark.svg" width="100%" alt="Estudiante de Ingeniería Informática en último semestre, con especialidad en Testing e Informática en la Nube. Áreas: desarrollo backend, arquitectura de software y bases de datos."/>
 </picture>
 
 <h2 align="center" id="stack">Stack Tecnológico</h2>
