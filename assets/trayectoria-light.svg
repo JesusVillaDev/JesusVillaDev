@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="192" viewBox="0 0 1000 192" role="img">
+<defs></defs>
+<rect x="0.5" y="0.5" width="999.0" height="191.0" fill="#FFFFFF" rx="14" stroke="#D6DDE4" stroke-width="1"/>
+<text x="166.7" y="56.0" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#0969DA" text-anchor="middle" letter-spacing="2.2">01</text>
+<text x="166.7" y="82.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" fill="#1F2328" font-weight="600" text-anchor="middle" letter-spacing="-0.1">InnovaTecNM 2024</text>
+<text x="166.7" y="108.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#5B646E" text-anchor="middle">Participación en el certamen nacional</text>
+<text x="166.7" y="127.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#5B646E" text-anchor="middle">de innovación tecnológica organizado</text>
+<text x="166.7" y="146.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#5B646E" text-anchor="middle">por el TecNM.</text>
+<text x="500.0" y="56.0" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#0969DA" text-anchor="middle" letter-spacing="2.2">02</text>
+<text x="500.0" y="82.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" fill="#1F2328" font-weight="600" text-anchor="middle" letter-spacing="-0.1">Certificación técnica</text>
+<text x="500.0" y="108.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#5B646E" text-anchor="middle">Formación continua en sistemas backend,</text>
+<text x="500.0" y="127.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#5B646E" text-anchor="middle">bases de datos relacionales y</text>
+<text x="500.0" y="146.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#5B646E" text-anchor="middle">arquitectura de software.</text>
+<text x="833.3" y="56.0" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#0969DA" text-anchor="middle" letter-spacing="2.2">03</text>
+<text x="833.3" y="82.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" fill="#1F2328" font-weight="600" text-anchor="middle" letter-spacing="-0.1">Hackathons y retos</text>
+<text x="833.3" y="108.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#5B646E" text-anchor="middle">Resolución colaborativa de</text>
+<text x="833.3" y="127.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#5B646E" text-anchor="middle">problemas algorítmicos y de</text>
+<text x="833.3" y="146.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#5B646E" text-anchor="middle">lógica de sistemas.</text>
+<line x1="333.3" y1="40.0" x2="333.3" y2="152.0" stroke="#E4E9EE" stroke-width="1"/>
+<line x1="666.7" y1="40.0" x2="666.7" y2="152.0" stroke="#E4E9EE" stroke-width="1"/>
+</svg>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="288" viewBox="0 0 1000 288" role="img">
+<defs></defs>
+<rect x="0.5" y="0.5" width="999.0" height="287.0" fill="#FFFFFF" rx="14" stroke="#D6DDE4" stroke-width="1"/>
+<text x="125.0" y="64.0" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#0969DA" text-anchor="middle" letter-spacing="2.2">01</text>
+<text x="125.0" y="90.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#1F2328" font-weight="600" text-anchor="middle" letter-spacing="0.4">BACKEND</text>
+<rect x="31.0" y="108.0" width="188.0" height="30.0" fill="#F6F8FA" rx="8" stroke="#D6DDE4" stroke-width="1"/>
+<circle cx="47.0" cy="123.0" r="3.6" fill="#787CB5"/>
+<text x="59.0" y="127.3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#5B646E">PHP</text>
+<rect x="31.0" y="144.0" width="188.0" height="30.0" fill="#F6F8FA" rx="8" stroke="#D6DDE4" stroke-width="1"/>
+<circle cx="47.0" cy="159.0" r="3.6" fill="#5FA04E"/>
+<text x="59.0" y="163.3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#5B646E">Node.js</text>
+<rect x="31.0" y="180.0" width="188.0" height="30.0" fill="#F6F8FA" rx="8" stroke="#D6DDE4" stroke-width="1"/>
+<circle cx="47.0" cy="195.0" r="3.6" fill="#3776AB"/>
+<text x="59.0" y="199.3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#5B646E">Python</text>
+<rect x="31.0" y="216.0" width="188.0" height="30.0" fill="#F6F8FA" rx="8" stroke="#D6DDE4" stroke-width="1"/>
+<circle cx="47.0" cy="231.0" r="3.6" fill="#E76F00"/>
+<text x="59.0" y="235.3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#5B646E">Java</text>
+<text x="375.0" y="64.0" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#0969DA" text-anchor="middle" letter-spacing="2.2">02</text>
+<text x="375.0" y="90.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#1F2328" font-weight="600" text-anchor="middle" letter-spacing="0.4">FRONTEND</text>
+<rect x="281.0" y="108.0" width="188.0" height="30.0" fill="#F6F8FA" rx="8" stroke="#D6DDE4" stroke-width="1"/>
+<circle cx="297.0" cy="123.0" r="3.6" fill="#F0DB4F"/>
+<text x="309.0" y="127.3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#5B646E">JavaScript</text>
+<rect x="281.0" y="144.0" width="188.0" height="30.0" fill="#F6F8FA" rx="8" stroke="#D6DDE4" stroke-width="1"/>
+<circle cx="297.0" cy="159.0" r="3.6" fill="#E34F26"/>
+<text x="309.0" y="163.3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#5B646E">HTML</text>
+<rect x="281.0" y="180.0" width="188.0" height="30.0" fill="#F6F8FA" rx="8" stroke="#D6DDE4" stroke-width="1"/>
+<circle cx="297.0" cy="195.0" r="3.6" fill="#1572B6"/>
+<text x="309.0" y="199.3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#5B646E">CSS</text>
+<rect x="281.0" y="216.0" width="188.0" height="30.0" fill="#F6F8FA" rx="8" stroke="#D6DDE4" stroke-width="1"/>
+<circle cx="297.0" cy="231.0" r="3.6" fill="#61DAFB"/>
+<text x="309.0" y="235.3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#5B646E">React</text>
+<text x="625.0" y="64.0" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#0969DA" text-anchor="middle" letter-spacing="2.2">03</text>
+<text x="625.0" y="90.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#1F2328" font-weight="600" text-anchor="middle" letter-spacing="0.4">DATOS Y HERRAMIENTAS</text>
+<rect x="531.0" y="108.0" width="188.0" height="30.0" fill="#F6F8FA" rx="8" stroke="#D6DDE4" stroke-width="1"/>
+<circle cx="547.0" cy="123.0" r="3.6" fill="#4479A1"/>
+<text x="559.0" y="127.3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#5B646E">MySQL</text>
+<rect x="531.0" y="144.0" width="188.0" height="30.0" fill="#F6F8FA" rx="8" stroke="#D6DDE4" stroke-width="1"/>
+<circle cx="547.0" cy="159.0" r="3.6" fill="#2496ED"/>
+<text x="559.0" y="163.3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#5B646E">Docker</text>
+<rect x="531.0" y="180.0" width="188.0" height="30.0" fill="#F6F8FA" rx="8" stroke="#D6DDE4" stroke-width="1"/>
+<circle cx="547.0" cy="195.0" r="3.6" fill="#F05032"/>
+<text x="559.0" y="199.3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#5B646E">Git</text>
+<rect x="531.0" y="216.0" width="188.0" height="30.0" fill="#F6F8FA" rx="8" stroke="#D6DDE4" stroke-width="1"/>
+<circle cx="547.0" cy="231.0" r="3.6" fill="#8B949E"/>
+<text x="559.0" y="235.3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#5B646E">GitHub</text>
+<text x="875.0" y="64.0" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#0969DA" text-anchor="middle" letter-spacing="2.2">04</text>
+<text x="875.0" y="90.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#1F2328" font-weight="600" text-anchor="middle" letter-spacing="0.4">SISTEMAS</text>
+<rect x="781.0" y="108.0" width="188.0" height="30.0" fill="#F6F8FA" rx="8" stroke="#D6DDE4" stroke-width="1"/>
+<circle cx="797.0" cy="123.0" r="3.6" fill="#FCC624"/>
+<text x="809.0" y="127.3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#5B646E">Linux</text>
+<rect x="781.0" y="144.0" width="188.0" height="30.0" fill="#F6F8FA" rx="8" stroke="#D6DDE4" stroke-width="1"/>
+<circle cx="797.0" cy="159.0" r="3.6" fill="#E95420"/>
+<text x="809.0" y="163.3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#5B646E">Ubuntu</text>
+<rect x="781.0" y="180.0" width="188.0" height="30.0" fill="#F6F8FA" rx="8" stroke="#D6DDE4" stroke-width="1"/>
+<circle cx="797.0" cy="195.0" r="3.6" fill="#A81D33"/>
+<text x="809.0" y="199.3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#5B646E">Debian</text>
+<rect x="781.0" y="216.0" width="188.0" height="30.0" fill="#F6F8FA" rx="8" stroke="#D6DDE4" stroke-width="1"/>
+<circle cx="797.0" cy="231.0" r="3.6" fill="#0078D4"/>
+<text x="809.0" y="235.3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#5B646E">Windows</text>
+<line x1="250.0" y1="40.0" x2="250.0" y2="248.0" stroke="#E4E9EE" stroke-width="1"/>
+<line x1="500.0" y1="40.0" x2="500.0" y2="248.0" stroke="#E4E9EE" stroke-width="1"/>
+<line x1="750.0" y1="40.0" x2="750.0" y2="248.0" stroke="#E4E9EE" stroke-width="1"/>
+</svg>

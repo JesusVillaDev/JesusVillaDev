@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="92" viewBox="0 0 1000 92" role="img">
+<defs></defs>
+<rect x="0.5" y="0.5" width="999.0" height="91.0" fill="#FFFFFF" rx="14" stroke="#D6DDE4" stroke-width="1"/>
+<text x="125.0" y="51.0" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#5B646E" text-anchor="middle" letter-spacing="2.6">FÚTBOL</text>
+<text x="375.0" y="51.0" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#5B646E" text-anchor="middle" letter-spacing="2.6">VOLEIBOL</text>
+<text x="625.0" y="51.0" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#5B646E" text-anchor="middle" letter-spacing="2.6">VIDEOJUEGOS</text>
+<text x="875.0" y="51.0" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#5B646E" text-anchor="middle" letter-spacing="2.6">AUTODIDACTA</text>
+<line x1="250.0" y1="26.0" x2="250.0" y2="66.0" stroke="#E4E9EE" stroke-width="1"/>
+<line x1="500.0" y1="26.0" x2="500.0" y2="66.0" stroke="#E4E9EE" stroke-width="1"/>
+<line x1="750.0" y1="26.0" x2="750.0" y2="66.0" stroke="#E4E9EE" stroke-width="1"/>
+</svg>

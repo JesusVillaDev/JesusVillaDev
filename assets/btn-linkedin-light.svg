@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="60" viewBox="0 0 250 60" role="img">
+<defs></defs>
+<rect x="0.5" y="0.5" width="249.0" height="59.0" fill="#F6F8FA" rx="12" stroke="#D6DDE4" stroke-width="1"/>
+<text x="20.0" y="25.0" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" fill="#818B98" letter-spacing="2.2">LINKEDIN</text>
+<text x="20.0" y="44.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#1F2328" font-weight="500">in/jesusfgv</text>
+<path d="M220 32 l10 -10 M222 22 h8 v8" stroke="#0969DA" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
