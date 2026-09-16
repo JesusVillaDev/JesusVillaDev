@@ -1,40 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="415" viewBox="0 0 1000 415" role="img">
 <defs></defs>
-<rect x="0.5" y="0.5" width="999.0" height="419.0" fill="#FFFFFF" rx="14.0" stroke="#D6DDE4" stroke-width="1"/>
+<rect x="0.5" y="0.5" width="999.0" height="414.0" fill="#FFFFFF" rx="14.0" stroke="#D6DDE4" stroke-width="1"/>
 <rect x="40.0" y="42.0" width="34.0" height="34.0" fill="#F6F8FA" rx="9.0" stroke="#D6DDE4" stroke-width="1"/>
 <text x="57.0" y="64.0" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.0" fill="#0969DA" font-weight="600" text-anchor="middle">02</text>
 <text x="88.0" y="66.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="23.0" fill="#1F2328" font-weight="700" letter-spacing="-0.3">StudIA</text>
-<rect x="722.0" y="46.0" width="130.8" height="26.0" fill="#F6F8FA" rx="13.0" stroke="#D6DDE4" stroke-width="1"/>
-<text x="736.0" y="62.8" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#818B98" letter-spacing="1.6">IA GENERATIVA</text>
-<rect x="860.8" y="46.0" width="99.2" height="26.0" fill="#F6F8FA" rx="13.0" stroke="#D6DDE4" stroke-width="1"/>
-<text x="874.8" y="62.8" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#818B98" letter-spacing="1.6">EDUCACIÓN</text>
-<text x="40.0" y="106.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.0" fill="#5B646E" font-style="italic">Plataforma educativa para la creación y gestión personalizada de guías de estudio con IA.</text>
-<rect x="40.0" y="130.0" width="61.3" height="28.0" fill="#F6F8FA" rx="8.0" stroke="#D6DDE4" stroke-width="1"/>
-<circle cx="55.0" cy="144.0" r="3.6" fill="#787CB5"/>
-<text x="66.0" y="148.2" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.0" fill="#5B646E">PHP</text>
-<rect x="109.3" y="130.0" width="74.2" height="28.0" fill="#F6F8FA" rx="8.0" stroke="#D6DDE4" stroke-width="1"/>
-<circle cx="124.3" cy="144.0" r="3.6" fill="#4479A1"/>
-<text x="135.3" y="148.2" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.0" fill="#5B646E">MySQL</text>
-<rect x="191.5" y="130.0" width="106.3" height="28.0" fill="#F6F8FA" rx="8.0" stroke="#D6DDE4" stroke-width="1"/>
-<circle cx="206.5" cy="144.0" r="3.6" fill="#F0DB4F"/>
-<text x="217.5" y="148.2" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.0" fill="#5B646E">JavaScript</text>
-<rect x="305.8" y="130.0" width="61.3" height="28.0" fill="#F6F8FA" rx="8.0" stroke="#D6DDE4" stroke-width="1"/>
-<circle cx="320.8" cy="144.0" r="3.6" fill="#1572B6"/>
-<text x="331.8" y="148.2" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.0" fill="#5B646E">CSS</text>
-<rect x="375.1" y="130.0" width="80.6" height="28.0" fill="#F6F8FA" rx="8.0" stroke="#D6DDE4" stroke-width="1"/>
-<circle cx="390.1" cy="144.0" r="3.6" fill="#10A37F"/>
-<text x="401.1" y="148.2" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.0" fill="#5B646E">API IA</text>
-<line x1="40.0" y1="188.0" x2="960.0" y2="188.0" stroke="#E4E9EE" stroke-width="1"/>
-<circle cx="44.0" cy="212.0" r="2.6" fill="#0969DA"/>
-<text x="58" y="216" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5"><tspan fill="#1F2328" font-weight="600">Generación inteligente</tspan><tspan fill="#5B646E"> — Crea guías didácticas y estructuradas con IA adaptadas a cualquier materia o tema.</tspan></text>
-<circle cx="44.0" cy="240.0" r="2.6" fill="#0969DA"/>
-<text x="58" y="244" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5"><tspan fill="#1F2328" font-weight="600">Personalización total</tspan><tspan fill="#5B646E"> — Permite calibrar dificultad, nivel de detalle y editar las guías generadas en cualquier momento.</tspan></text>
-<circle cx="44.0" cy="268.0" r="2.6" fill="#0969DA"/>
-<text x="58" y="272" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5"><tspan fill="#1F2328" font-weight="600">Módulos integrados</tspan><tspan fill="#5B646E"> — Incluye áreas específicas para estudiar teoría, realizar prácticas dinámicas y tomar notas.</tspan></text>
-<text x="40.0" y="310.0" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#818B98" letter-spacing="2.4">CARACTERÍSTICAS Y ALCANCE</text>
-<line x1="260.0" y1="306.0" x2="960.0" y2="306.0" stroke="#E4E9EE" stroke-width="1"/>
-<text x="58" y="338" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5"><tspan fill="#5B646E" font-weight="600">Organización por materias</tspan><tspan fill="#818B98"> — Clasificación ordenada por asignaturas para estructurar planes de estudio.</tspan></text>
-<text x="58" y="362" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5"><tspan fill="#5B646E" font-weight="600">Biblioteca de guías</tspan><tspan fill="#818B98"> — Repositorio centralizado para guardar, organizar y consultar material de estudio.</tspan></text>
-<text x="58" y="386" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5"><tspan fill="#5B646E" font-weight="600">Experiencia amigable</tspan><tspan fill="#818B98"> — Interfaz intuitiva y agradable enfocada en la retención y concentración del estudiante.</tspan></text>
+<rect x="642.0" y="45.0" width="154.0" height="28.0" fill="#F6F8FA" rx="14.0" stroke="#D6DDE4" stroke-width="1"/>
+<text x="719.0" y="63.0" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#818B98" font-weight="500" text-anchor="middle" letter-spacing="1.2">INNOVATECNM 2026</text>
+<rect x="806.0" y="45.0" width="154.0" height="28.0" fill="#F6F8FA" rx="14.0" stroke="#D6DDE4" stroke-width="1"/>
+<text x="883.0" y="63.0" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#818B98" font-weight="500" text-anchor="middle" letter-spacing="1.2">IA GENERATIVA</text>
+<text x="40.0" y="104.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#5B646E" font-style="italic">Plataforma educativa para la creación y gestión personalizada de guías de estudio con IA.</text>
+<rect x="40.0" y="126.0" width="30.0" height="30.0" rx="8.0" fill="#F6F8FA" stroke="#D6DDE4" stroke-width="1"/>
+<rect x="44.5" y="133.5" width="21.0" height="15.0" rx="4.0" fill="#777BB4"/><text x="55.0" y="144.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="8.5" font-weight="800" fill="#FFFFFF" text-anchor="middle">php</text>
+<rect x="78.0" y="126.0" width="30.0" height="30.0" rx="8.0" fill="#F6F8FA" stroke="#D6DDE4" stroke-width="1"/>
+<path d="M86.0 135 c0 -2.2 3.1 -3.2 7 -3.2 s7 1.0 7 3.2 v12.0 c0 2.2 -3.1 3.2 -7 3.2 s-7 -1.0 -7 -3.2 z" fill="none" stroke="#4479A1" stroke-width="1.8"/><path d="M86.0 139 c0 1.8 3.1 2.8 7 2.8 s7 -1.0 7 -2.8" fill="none" stroke="#4479A1" stroke-width="1.8"/><path d="M86.0 143 c0 1.8 3.1 2.8 7 2.8 s7 -1.0 7 -2.8" fill="none" stroke="#4479A1" stroke-width="1.8"/>
+<rect x="116.0" y="126.0" width="30.0" height="30.0" rx="8.0" fill="#F6F8FA" stroke="#D6DDE4" stroke-width="1"/>
+<rect x="121.0" y="131.0" width="20.0" height="20.0" rx="3.5" fill="#F7DF1E"/><text x="131.0" y="145.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="800" fill="#000000" text-anchor="middle">JS</text>
+<rect x="154.0" y="126.0" width="30.0" height="30.0" rx="8.0" fill="#F6F8FA" stroke="#D6DDE4" stroke-width="1"/>
+<rect x="159.0" y="131.0" width="20.0" height="20.0" rx="3.5" fill="#1572B6"/><text x="169.0" y="145.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="9.5" font-weight="800" fill="#FFFFFF" text-anchor="middle">CSS</text>
+<rect x="192.0" y="126.0" width="30.0" height="30.0" rx="8.0" fill="#F6F8FA" stroke="#D6DDE4" stroke-width="1"/>
+<path d="M207 132 l1.6 5.5 5.5 1.6 -5.5 1.6 -1.6 5.5 -1.6 -5.5 -5.5 -1.6 5.5 -1.6 z" fill="#10A37F"/><circle cx="200.5" cy="146.5" r="1.6" fill="#10A37F"/><circle cx="214" cy="135.5" r="1.3" fill="#10A37F"/>
+<line x1="40.0" y1="172.0" x2="960.0" y2="172.0" stroke="#E4E9EE" stroke-width="1"/>
+<circle cx="44.0" cy="194.0" r="2.6" fill="#0969DA"/>
+<text x="58.0" y="198.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.0"><tspan fill="#1F2328" font-weight="600">Generación inteligente:</tspan><tspan fill="#5B646E"> Crea guías didácticas y estructuradas con IA adaptadas a cualquier materia o tema.</tspan></text>
+<circle cx="44.0" cy="220.0" r="2.6" fill="#0969DA"/>
+<text x="58.0" y="224.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.0"><tspan fill="#1F2328" font-weight="600">Personalización total:</tspan><tspan fill="#5B646E"> Permite calibrar dificultad, nivel de detalle y editar las guías generadas en cualquier momento.</tspan></text>
+<circle cx="44.0" cy="246.0" r="2.6" fill="#0969DA"/>
+<text x="58.0" y="250.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.0"><tspan fill="#1F2328" font-weight="600">Módulos integrados:</tspan><tspan fill="#5B646E"> Incluye áreas específicas para estudiar teoría, realizar prácticas dinámicas y tomar notas.</tspan></text>
+<text x="40.0" y="288.0" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#818B98" letter-spacing="2.4">CARACTERÍSTICAS Y ALCANCE</text>
+<line x1="260.0" y1="284.0" x2="960.0" y2="284.0" stroke="#E4E9EE" stroke-width="1"/>
+<text x="58.0" y="314.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5"><tspan fill="#5B646E" font-weight="600">Organización por materias:</tspan><tspan fill="#818B98"> Clasificación ordenada por asignaturas para estructurar planes de estudio.</tspan></text>
+<text x="58.0" y="337.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5"><tspan fill="#5B646E" font-weight="600">Biblioteca de guías:</tspan><tspan fill="#818B98"> Repositorio centralizado para guardar, organizar y consultar material de estudio.</tspan></text>
+<text x="58.0" y="360.0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5"><tspan fill="#5B646E" font-weight="600">Experiencia amigable:</tspan><tspan fill="#818B98"> Interfaz intuitiva y agradable enfocada en la retención y concentración del estudiante.</tspan></text>
 </svg>
