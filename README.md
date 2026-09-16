@@ -68,13 +68,13 @@ Genera el botón añadiendo una línea write("btn-portafolio-…") en assets/_ge
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=JesusVillaDev&show_icons=true&count_private=true&rank_icon=github&card_width=495&border_radius=14&border_color=D6DDE4&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=5B646E">
-  <img width="72%" src="https://github-readme-stats.vercel.app/api?username=JesusVillaDev&show_icons=true&count_private=true&rank_icon=github&card_width=495&border_radius=14&border_color=21262D&bg_color=0E131A&title_color=58A6FF&icon_color=58A6FF&text_color=9198A1" alt="Estadísticas de GitHub"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=JesusVillaDev&show_icons=true&count_private=true&rank_icon=github&card_width=495&border_radius=14&border_color=D6DDE4&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=5B646E">
+  <img width="72%" src="https://github-stats-extended.vercel.app/api?username=JesusVillaDev&show_icons=true&count_private=true&rank_icon=github&card_width=495&border_radius=14&border_color=21262D&bg_color=0E131A&title_color=58A6FF&icon_color=58A6FF&text_color=9198A1" alt="Estadísticas de GitHub"/>
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusVillaDev&layout=compact&langs_count=8&card_width=495&border_radius=14&border_color=D6DDE4&bg_color=FFFFFF&title_color=0969DA&text_color=5B646E">
-  <img width="72%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusVillaDev&layout=compact&langs_count=8&card_width=495&border_radius=14&border_color=21262D&bg_color=0E131A&title_color=58A6FF&text_color=9198A1" alt="Lenguajes más utilizados"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=JesusVillaDev&layout=compact&langs_count=8&card_width=495&border_radius=14&border_color=D6DDE4&bg_color=FFFFFF&title_color=0969DA&text_color=5B646E">
+  <img width="72%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JesusVillaDev&layout=compact&langs_count=8&card_width=495&border_radius=14&border_color=21262D&bg_color=0E131A&title_color=58A6FF&text_color=9198A1" alt="Lenguajes más utilizados"/>
 </picture>
 
 <picture>
@@ -103,4 +103,5 @@ Genera el botón añadiendo una línea write("btn-portafolio-…") en assets/_ge
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JesusVillaDev/JesusVillaDev/HEAD/assets/footer-light.svg">
   <img src="assets/footer-dark.svg" width="100%" alt=""/>
 </picture>
+
 
