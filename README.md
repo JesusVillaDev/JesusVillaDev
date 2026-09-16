@@ -24,28 +24,16 @@ Estudiante de Ingeniería Informática enfocado en el **desarrollo Backend, la a
 
 <h2 align="center">Stack Tecnológico</h2>
 
-<br/>
-
-<h3 align="center">Backend</h3>
-
+<h4 align="center">Backend</h4>
 <img src="https://skillicons.dev/icons?i=php,nodejs,py,java&theme=dark" alt="Backend" />
 
-<br/><br/>
-
-<h3 align="center">Frontend</h3>
-
+<h4 align="center">Frontend</h4>
 <img src="https://skillicons.dev/icons?i=js,html,css,react&theme=dark" alt="Frontend" />
 
-<br/><br/>
-
-<h3 align="center">Infraestructura & Herramientas</h3>
-
+<h4 align="center">Infraestructura & Herramientas</h4>
 <img src="https://skillicons.dev/icons?i=mysql,docker,git,github&theme=dark" alt="Infraestructura y Herramientas" />
 
-<br/><br/>
-
-<h3 align="center">Sistemas Operativos</h3>
-
+<h4 align="center">Sistemas Operativos</h4>
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows&theme=dark" alt="Sistemas Operativos" />
 
 </div>
