@@ -10,10 +10,10 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/UBICACIÓN-MICHOACÁN%2C%20MÉXICO-0F2027?style=flat-square&labelColor=161B22&color=0969DA"/>
-<img src="https://img.shields.io/badge/ESTATUS-ÚLTIMO%20SEMESTRE-0F2027?style=flat-square&labelColor=161B22&color=238636"/>
-<img src="https://img.shields.io/badge/INGLÉS-TÉCNICO%20BÁSICO-0F2027?style=flat-square&labelColor=161B22&color=1F6FEB"/>
-<img src="https://img.shields.io/badge/DISPONIBILIDAD-BÚSQUEDA%20ACTIVA-0F2027?style=flat-square&labelColor=161B22&color=8957E5"/>
+<img src="https://img.shields.io/badge/UBICACIÓN-MICHOACÁN%2C%20MÉXICO-161B22?style=flat-square&labelColor=0D1117&color=1F6FEB"/>
+<img src="https://img.shields.io/badge/ESTATUS-ÚLTIMO%20SEMESTRE-161B22?style=flat-square&labelColor=0D1117&color=1F6FEB"/>
+<img src="https://img.shields.io/badge/INGLÉS-TÉCNICO%20BÁSICO-161B22?style=flat-square&labelColor=0D1117&color=1F6FEB"/>
+<img src="https://img.shields.io/badge/DISPONIBILIDAD-BÚSQUEDA%20ACTIVA-161B22?style=flat-square&labelColor=0D1117&color=1F6FEB"/>
 
 </div>
 
@@ -21,29 +21,73 @@
 
 ## Perfil Profesional
 
-Estudiante de Ingeniería Informática en último semestre, enfocado en el **desarrollo Backend, la arquitectura de software y el modelado de datos**, con capacidad para estructurar sistemas escalables, seguros y mantenibles. Aplico estándares rigurosos de código limpio en el servidor y una construcción frontend detallada, garantizando plataformas eficientes y confiables.
+Estudiante de Ingeniería Informática en último semestre, enfocado en el **desarrollo Backend, la arquitectura de software y el modelado de datos**. Especializado en estructurar sistemas escalables, seguros y mantenibles bajo estándares rigurosos de código limpio en el servidor, complementado con atención al detalle y rendimiento en el frontend para entregar soluciones robustas de extremo a extremo.
 
-> [!NOTE]
-> **Enfoque Técnico**  
-> Lógica de backend modular, diseño y consumo de APIs RESTful, tipado estricto, seguridad basada en JWT y optimización de bases de datos relacionales.
+---
 
-> [!TIP]
-> **Situación Actual**  
-> En búsqueda activa de prácticas profesionales o posiciones Junior como desarrollador Backend o Software Engineer, con disponibilidad para integrarme de forma inmediata.
+### Especialidades de Ingeniería
 
-> [!IMPORTANT]
-> **Metodología y Estándares**  
-> Implementación de principios SOLID, arquitectura limpia, desacoplamiento de capas y observabilidad en flujos de datos.
+#### 01. Arquitectura de Backend & Servicios REST
+Diseño de lógica de negocio desacoplada aplicando principios SOLID y separación estricta de responsabilidades (SRP). Implementación de APIs RESTful con tipado estricto en PHP 8.3 / Node.js, control de sesiones y autenticación segura basada en JWT.
+
+#### 02. Modelado de Datos & Telemetría
+Diseño e implementación de esquemas normalizados en MySQL, optimización de consultas, persistencia de métricas de telemetría en tiempo real y estructuración de baremos psicométricos en base de datos.
+
+#### 03. Estándares de Rendimiento & Frontend
+Desarrollo frontend 100% nativo (Vanilla HTML5, CSS3 y JavaScript) sin sobrecarga de dependencias externas ni frameworks pesados, garantizando tiempos de respuesta mínimos y máxima eficiencia en el cliente.
 
 <br/>
 
 ## Stack Tecnológico
 
+Conjunto de herramientas y lenguajes estructurados por capas arquitectónicas, garantizando simetría técnica y modularidad en cada nivel del sistema.
+
+### Backend & Lógica de Servidor
+Desarrollo de servicios RESTful, lógica de negocio modular, tipado estricto y comunicación asíncrona.
+
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=php,nodejs,py,java,js,mysql,docker,linux,ubuntu,debian,react,html,css,git,github&theme=dark&perline=5" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=php,nodejs,py,java,js&theme=dark" alt="Backend Stack" />
 </a>
+
+<br/>
+
+`PHP 8.3` &nbsp;|&nbsp; `Node.js` &nbsp;|&nbsp; `Python` &nbsp;|&nbsp; `Java` &nbsp;|&nbsp; `JavaScript ES6+`
+
+</div>
+
+---
+
+### Bases de Datos & Infraestructura
+Persistencia relacional estructurada, contenedorización de entornos y administración de servidores Unix.
+
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,docker,linux,ubuntu,debian&theme=dark" alt="Databases and Infrastructure" />
+</a>
+
+<br/>
+
+`MySQL` &nbsp;|&nbsp; `Docker` &nbsp;|&nbsp; `Linux` &nbsp;|&nbsp; `Ubuntu Server` &nbsp;|&nbsp; `Debian`
+
+</div>
+
+---
+
+### Frontend & Control de Versiones
+Interfaces de usuario de alto rendimiento, maquetación semántica y flujos de trabajo colaborativos en Git.
+
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,react,git,github&theme=dark" alt="Frontend and Tools" />
+</a>
+
+<br/>
+
+`HTML5 Semántico` &nbsp;|&nbsp; `CSS3 Nativo` &nbsp;|&nbsp; `React` &nbsp;|&nbsp; `Git` &nbsp;|&nbsp; `GitHub`
 
 </div>
 
@@ -56,7 +100,7 @@ Estudiante de Ingeniería Informática en último semestre, enfocado en el **des
 
 `PHP 8.3` `MySQL` `JavaScript Vanilla` `CSS3 Nativo` `Arquitectura Modular` `JWT Auth`
 
-- **Backend:** API REST estructurada con separación estricta de responsabilidades (SRP), tipado estricto en PHP 8.3 y aislamiento por tutor.
+- **Backend:** API REST estructurada con separación estricta de responsabilidades (SRP), tipado estricto en PHP 8.3 y aislamiento por tutor autenticado.
 - **Telemetría Cognitiva:** Motor de persistencia para tiempos de reacción, precisión y cálculo de baremos psicométricos en base de datos.
 - **Frontend de Alto Rendimiento:** Arquitectura 100% Vanilla Web (sin dependencias pesadas ni frameworks externos), optimizada para tiempos de carga mínimos.
 
@@ -117,10 +161,10 @@ Estudiante de Ingeniería Informática en último semestre, enfocado en el **des
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/DEPORTE-FÚTBOL-0F2027?style=for-the-badge&labelColor=161B22&color=0969DA"/>
-<img src="https://img.shields.io/badge/DEPORTE-VOLEIBOL-0F2027?style=for-the-badge&labelColor=161B22&color=0969DA"/>
-<img src="https://img.shields.io/badge/INTERÉS-VIDEOJUEGOS-0F2027?style=for-the-badge&labelColor=161B22&color=1F6FEB"/>
-<img src="https://img.shields.io/badge/HÁBITO-APRENDIZAJE%20CONTINUO-0F2027?style=for-the-badge&labelColor=161B22&color=238636"/>
+<img src="https://img.shields.io/badge/FÚTBOL-161B22?style=for-the-badge&labelColor=0D1117&color=21262D"/>
+<img src="https://img.shields.io/badge/VOLEIBOL-161B22?style=for-the-badge&labelColor=0D1117&color=21262D"/>
+<img src="https://img.shields.io/badge/VIDEOJUEGOS-161B22?style=for-the-badge&labelColor=0D1117&color=21262D"/>
+<img src="https://img.shields.io/badge/AUTODIDACTA-161B22?style=for-the-badge&labelColor=0D1117&color=21262D"/>
 
 </div>
 
@@ -131,14 +175,18 @@ Estudiante de Ingeniería Informática en último semestre, enfocado en el **des
 <div align="center">
 
 <a href="mailto:jesusfgv.dev@gmail.com">
-  <img src="https://img.shields.io/badge/CORREO-jesusfgv.dev%40gmail.com-0F2027?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22&color=EA4335"/>
+  <img src="https://img.shields.io/badge/GMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117"/>
 </a>
 <a href="https://linkedin.com">
-  <img src="https://img.shields.io/badge/LINKEDIN-JESÚS%20FRANCISCO%20GUTIÉRREZ-0F2027?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22&color=0A66C2"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117"/>
 </a>
 <a href="https://github.com/JesusGutzVil">
-  <img src="https://img.shields.io/badge/GITHUB-JesusGutzVil-0F2027?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22&color=238636"/>
+  <img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
 </a>
+
+<br/><br/>
+
+`jesusfgv.dev@gmail.com` &nbsp;&nbsp;|&nbsp;&nbsp; `linkedin.com/in/jesusfgv` &nbsp;&nbsp;|&nbsp;&nbsp; `github.com/JesusGutzVil`
 
 <br/><br/>
 
