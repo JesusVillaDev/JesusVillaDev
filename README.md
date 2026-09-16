@@ -1,179 +1,100 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=180&section=header&text=Jesús%20Francisco%20Gutiérrez%20Villa&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20%7C%20Arquitectura%20de%20Software%20%7C%20Datos&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=180&section=header&text=Jesús%20Francisco%20Gutiérrez%20Villa&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20%7C%20Arquitectura%20de%20Software%20%7C%20Bases%20de%20Datos&descAlignY=58&descSize=16" width="100%"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/UBICACIÓN-MICHOACÁN%2C%20MÉXICO-0F2027?style=flat-square&labelColor=1a1a1a"/>
-<img src="https://img.shields.io/badge/ESTATUS-ÚLTIMO%20SEMESTRE-2C5364?style=flat-square&labelColor=1a1a1a"/>
-<img src="https://img.shields.io/badge/INGLÉS-TÉCNICO%20BÁSICO-2C5364?style=flat-square&labelColor=1a1a1a"/>
-<img src="https://img.shields.io/badge/DISPONIBILIDAD-BÚSQUEDA%20ACTIVA-2C5364?style=flat-square&labelColor=1a1a1a"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Ingenier%C3%ADa+Inform%C3%A1tica+%7C+Especialidad+Backend;Arquitectura+de+Software+y+Modelado+de+Datos;Clean+Code+%7C+APIs+RESTful+%7C+Seguridad+JWT;Desarrollo+de+Sistemas+Escalables+y+Mantenibles" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/UBICACIÓN-MICHOACÁN%2C%20MÉXICO-0F2027?style=flat-square&labelColor=161B22&color=0969DA"/>
+<img src="https://img.shields.io/badge/ESTATUS-ÚLTIMO%20SEMESTRE-0F2027?style=flat-square&labelColor=161B22&color=238636"/>
+<img src="https://img.shields.io/badge/INGLÉS-TÉCNICO%20BÁSICO-0F2027?style=flat-square&labelColor=161B22&color=1F6FEB"/>
+<img src="https://img.shields.io/badge/DISPONIBILIDAD-BÚSQUEDA%20ACTIVA-0F2027?style=flat-square&labelColor=161B22&color=8957E5"/>
 
 </div>
 
 <br/>
 
-## Perfil
+## Perfil Profesional
 
-Estudiante de Ingeniería Informática en último semestre, actualmente en **búsqueda activa de prácticas profesionales o una posición junior**. Mi interés principal está en el **desarrollo Backend, la arquitectura de software y el manejo de datos**, diseñando sistemas estructurados, escalables y mantenibles. También aplico atención al detalle en el Frontend, asegurando que los sistemas que diseño sean tan usables como bien construidos.
+Estudiante de Ingeniería Informática en último semestre, enfocado en el **desarrollo Backend, la arquitectura de software y el modelado de datos**, con capacidad para estructurar sistemas escalables, seguros y mantenibles. Aplico estándares rigurosos de código limpio en el servidor y una construcción frontend detallada, garantizando plataformas eficientes y confiables.
 
-<table width="100%">
-<tr>
-<td width="33%" align="center" valign="top">
+> [!NOTE]
+> **Enfoque Técnico**  
+> Lógica de backend modular, diseño y consumo de APIs RESTful, tipado estricto, seguridad basada en JWT y optimización de bases de datos relacionales.
 
-**Enfoque**
+> [!TIP]
+> **Situación Actual**  
+> En búsqueda activa de prácticas profesionales o posiciones Junior como desarrollador Backend o Software Engineer, con disponibilidad para integrarme de forma inmediata.
 
-Lógica de backend, arquitectura de software y estructuración de datos.
-
-</td>
-<td width="33%" align="center" valign="top">
-
-**Actualmente**
-
-Aplicando activamente a prácticas y vacantes junior en desarrollo.
-
-</td>
-<td width="34%" align="center" valign="top">
-
-**Metodología**
-
-Ingeniería orientada al detalle, tanto en lógica como en interfaz.
-
-</td>
-</tr>
-</table>
+> [!IMPORTANT]
+> **Metodología y Estándares**  
+> Implementación de principios SOLID, arquitectura limpia, desacoplamiento de capas y observabilidad en flujos de datos.
 
 <br/>
 
 ## Stack Tecnológico
 
-<table width="100%">
-<tr>
-<td width="50%" align="center" valign="top">
+<div align="center">
 
-**Lenguajes**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=php,nodejs,py,java,js,mysql,docker,linux,ubuntu,debian,react,html,css,git,github&theme=dark&perline=5" alt="Tech Stack" />
+</a>
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-
-</td>
-<td width="50%" align="center" valign="top">
-
-**Frontend**
-
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-
-**Backend**
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-
-</td>
-<td width="50%" align="center" valign="top">
-
-**Bases de Datos**
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-
-**Herramientas**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-
-</td>
-<td width="50%" align="center" valign="top">
-
-**Sistemas Operativos / VMs**
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
-<img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white"/>
-<img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white"/>
-<img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
 ## Proyectos Destacados
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+### EnfocaKids — Sistema de Estimulación Cognitiva y Tareas Escolares
+> Plataforma web modular orientada a la evaluación cognitiva infantil y soporte escolar, integrando telemetría en tiempo real y persistencia relacional.
 
-### Proyecto Uno
-Breve descripción del problema que resuelve este proyecto y su objetivo principal.
+`PHP 8.3` `MySQL` `JavaScript Vanilla` `CSS3 Nativo` `Arquitectura Modular` `JWT Auth`
 
-`PHP` `MySQL` `JavaScript`
+- **Backend:** API REST estructurada con separación estricta de responsabilidades (SRP), tipado estricto en PHP 8.3 y aislamiento por tutor.
+- **Telemetría Cognitiva:** Motor de persistencia para tiempos de reacción, precisión y cálculo de baremos psicométricos en base de datos.
+- **Frontend de Alto Rendimiento:** Arquitectura 100% Vanilla Web (sin dependencias pesadas ni frameworks externos), optimizada para tiempos de carga mínimos.
 
-[Repositorio](#) · [Demo](#)
+[Repositorio Privado / Consultar Acceso](#)
 
-</td>
-<td width="50%" valign="top">
+---
 
-### Proyecto Dos
-Breve descripción del problema que resuelve este proyecto y su objetivo principal.
+### Arquitectura de Microservicios y APIs REST
+> Estructura base desacoplada para gestión de usuarios, autenticación y persistencia de datos relacionales.
 
-`React` `Node.js` `MySQL`
+`Node.js` `Express` `MySQL` `Docker` `Clean Architecture`
 
-[Repositorio](#) · [Demo](#)
+- **Control de Acceso:** Gestión de credenciales, hashing seguro y validación de tokens de sesión con expiración controlada.
+- **Despliegue y Entorno:** Configuración de contenedores con Docker y Docker Compose para entornos de desarrollo y producción reproducibles.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+[Repositorio](#) · [Documentación](#)
 
-### Proyecto Tres
-Breve descripción del problema que resuelve este proyecto y su objetivo principal.
-
-`Python` `Docker`
-
-[Repositorio](#) · [Demo](#)
-
-</td>
-<td width="50%" valign="top">
+---
 
 ### Portafolio Personal
-Sitio web personal actualmente en desarrollo. Mostrará el historial completo de proyectos y casos de estudio.
+> Plataforma web orientada a la exhibición técnica de proyectos, casos de estudio y métricas de desempeño.
 
-`React` `Node.js`
+`React` `Node.js` `Vanilla CSS`
 
-**Estatus:** En construcción
-
-</td>
-</tr>
-</table>
+- **Estatus:** En desarrollo activo.
 
 <br/>
 
 ## Certificaciones y Logros
 
-| Evento / Certificación | Año | Descripción |
-|---|:---:|---|
-| InnovaTecNM | 20XX | Participación en el concurso de innovación tecnológica organizado por el TecNM. |
-| Nombre de Certificación | 20XX | Breve descripción de la certificación e institución que la emitió. |
-| Hackathon / Concurso | 20XX | Breve descripción del logro o posición obtenida. |
+- **InnovaTecNM (2024)**  
+  Participación en el certamen nacional de innovación tecnológica organizado por el Tecnológico Nacional de México (TecNM).
+
+- **Certificación Técnica Especializada**  
+  Formación continua en diseño de sistemas backend, bases de datos relacionales y arquitectura de software.
+
+- **Hackathons y Retos de Programación**  
+  Resolución colaborativa de problemas algorítmicos y de lógica de sistemas bajo entornos de alta exigencia.
 
 <br/>
 
@@ -181,29 +102,27 @@ Sitio web personal actualmente en desarrollo. Mostrará el historial completo de
 
 <div align="center">
 
-<img height="165px" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117"/>
-<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark&hide_border=true&bg_color=0D1117"/>
+<img height="165px" src="https://github-stats-extended.vercel.app/api?username=JesusGutzVil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
+<img height="165px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JesusGutzVil&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JesusGutzVil&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=1F6FEB&currStreakNum=58A6FF&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E"/>
 
 </div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=dark&hide_border=true&background=0D1117"/>
-</div>
-
-<sub>Reemplaza `TU_USUARIO` por tu nombre de usuario real de GitHub en cada URL anterior.</sub>
 
 <br/>
 
-## Fuera del Código
+## Intereses Personales
 
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>Fútbol</strong></td>
-<td width="25%" align="center"><strong>Voleibol</strong></td>
-<td width="25%" align="center"><strong>Videojuegos</strong></td>
-<td width="25%" align="center"><strong>Aprendizaje Continuo</strong></td>
-</tr>
-</table>
+<div align="center">
+
+<img src="https://img.shields.io/badge/DEPORTE-FÚTBOL-0F2027?style=for-the-badge&labelColor=161B22&color=0969DA"/>
+<img src="https://img.shields.io/badge/DEPORTE-VOLEIBOL-0F2027?style=for-the-badge&labelColor=161B22&color=0969DA"/>
+<img src="https://img.shields.io/badge/INTERÉS-VIDEOJUEGOS-0F2027?style=for-the-badge&labelColor=161B22&color=1F6FEB"/>
+<img src="https://img.shields.io/badge/HÁBITO-APRENDIZAJE%20CONTINUO-0F2027?style=for-the-badge&labelColor=161B22&color=238636"/>
+
+</div>
 
 <br/>
 
@@ -212,16 +131,17 @@ Sitio web personal actualmente en desarrollo. Mostrará el historial completo de
 <div align="center">
 
 <a href="mailto:jesusfgv.dev@gmail.com">
-<img src="https://img.shields.io/badge/CORREO-jesusfgv.dev%40gmail.com-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CORREO-jesusfgv.dev%40gmail.com-0F2027?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22&color=EA4335"/>
 </a>
-<a href="#">
-<img src="https://img.shields.io/badge/LINKEDIN-AGREGAR%20URL-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com">
+  <img src="https://img.shields.io/badge/LINKEDIN-JESÚS%20FRANCISCO%20GUTIÉRREZ-0F2027?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22&color=0A66C2"/>
+</a>
+<a href="https://github.com/JesusGutzVil">
+  <img src="https://img.shields.io/badge/GITHUB-JesusGutzVil-0F2027?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22&color=238636"/>
 </a>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=90&section=footer" width="100%"/>
 
 </div>
